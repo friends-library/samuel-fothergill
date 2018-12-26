@@ -42,8 +42,8 @@ most of them without any surviving descendants, I feel a liberty to insert names
 and to retain the expression of sentiments and the mention of circumstances,
 which otherwise it would have been proper to withhold.
 
-George Crosfield.Liverpool, Fifth month 20th, 1843.
+[.signed-section-signature]
+George Crosfield.
 
-[.asterism]
-'''
-
+[.signed-section-context-close]
+Liverpool, Fifth month 20th, 1843.

@@ -48,14 +48,13 @@ A short time before his decease, being at a meeting at Philadelphia,
 whilst engaged in a lively testimony, he was seized with violent pain;
 leaning for support on the rail of the gallery, he pathetically repeated these lines: --
 
+[verse]
+____
 "`My life, if thou preserv'st my life,
-
 Thy sacrifice shall be;
-
 And death, if death must be my doom,
-
 Shall join my soul to thee.`"
-
+____
 
 He departed this life on the 30th of twelfth month, 1799, aged nearly seventy years,
 having been a minister forty-two years.
@@ -154,8 +153,13 @@ both greatly affected by this deliverance,
 united in returning thanks for the merciful interposition
 which had so remarkably preserved her life.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Catharine Payton.
 
+[.signed-section-context-open]
 Eighth month 1st, 1756.
 
 I affectionately salute thee in a degree of that love which hath often mutually united,
@@ -193,13 +197,18 @@ I know it is right, and may every residue of corruption, be searched out and rem
 I can beg for sanctification through the spirit of judgment and of burning,
 and the degrees of glorification will be justly attained.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Warrington, Third month 6th, 1756.
 
 With a heart replenished with strong emotions of gratitude to the great Preserver of men,
@@ -233,13 +242,18 @@ Various are the prospects of the skies, according to the time of day;
 but if the dark clouds arise not from our own misconduct,
 we may awake and arise from them, and see the holy likeness.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Warrington, Eighth month 10th, 1756.
 
 No expressions are capable of setting forth the variety of trials, painful labour,
@@ -274,13 +288,18 @@ Good and wise is He with whom we have to do; oh, may we labour,
 with diligence and steady patience, to be meet for a place amongst his own children,
 who have their bread in due season,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Lydia Lancaster to Samuel Fothergill.
 
+[.signed-section-context-open]
 Lancaster, Eighth month 13th, 1756.
 
 Yea, thankful I am that thou hast been favoured with health,
@@ -304,13 +323,18 @@ having had their acquaintance mostly with the new-light Presbyterians.
 Many of them went with Friends to their meeting on first-day,
 and were much tendered under Truth's testimony.
 
+[.signed-section-signature]
 Lydia Lancaster.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Catharine Payton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Dudley, Eighth month 14th, 1756.
 
 Solitude seems so much my choice, as well as safety,
@@ -335,16 +359,21 @@ But, through his grace, I dare hope for a degree of liberty, which I already fee
 and may my eye be ever kept humbly watchful,
 that my flight may neither be in the winter nor on the sabbath day.
 
+[.signed-section-signature]
 Catharine Payton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 Warrington, Tenth month 26th, 1756.
 
-It hath not been the effect of forgetful ness,
+It hath not been the effect of forgetfulness,
 that I have not before this time written to thee, from this, the land of my nativity;
 but a variety of outward affairs, to which prudence required my attention,
 and some employment relative to the Society, may plead my excuse;
@@ -434,15 +463,21 @@ and be preserved, in times of withdrawing, chaste and dependent,
 that our fruit may be on us every month, in the variety of seasons in the Lord's year.
 My dear wife is bravely, and joins with me in the most affectionate tenders of true love.
 
+[.signed-section-closing]
 Thine, in the fellowship of the hope and sufferings of the gospel of Christ,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Pemberton.
 
+[.signed-section-context-open]
 Warrington, Tenth month 26th, 1756.
 
 In a fresh sense of that love and pure friendship in which our
@@ -504,13 +539,18 @@ I do not expect your present situation is the most pleasing; but oh,
 that the Rock of the righteous, and their dwelling-place throughout all generations,
 may be our fortress, for the clouds seem heavy with a tempest.
 
+[.signed-section-closing]
 Dear John, thine assured friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to James Wilson.^
 footnote:[This venerable Friend resided near Sedbergh,
 but in his latter years he lived at Kendal.
@@ -534,10 +574,13 @@ who is my dear and blessed Saviour.
 Amen!`"
 He died at Kendal, twelfth month 30th, 1769, aged ninety-two, a minister sixty years.]
 
+[.centered]
 (The original is in the possession of Thomas Thompson, Liverpool.--G. C.)
 
+[.signed-section-context-open]
 Warrington, Eleventh month 9th, 1756.
 
+[.salutation]
 Dear and worthy friend.
 
 As I am persuaded thou hast greatly at heart the welfare of Zion,
@@ -749,13 +792,18 @@ that I may be enabled so to run as to obtain,
 and be preserved a monument of unutterable mercy to the end.
 Thy very affectionate friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Gawthorp to Samuel Fothergill.
 
+[.signed-section-context-open]
 Blackwater, in Virginia, Twelfth month 8th, 1756.
 
 I should have been glad to have seen thee before thou left this continent,
@@ -790,7 +838,10 @@ where sword is set against sword, and the divisions are so great,
 even amongst the first born sons of Jacob;
 for which my heart and bowels are pained within me.
 
+[.signed-section-signature]
 Thomas Gawthorp.
+
+--
 
 Thomas Gawthorp, a fellow labourer with Samuel Fothergill, in America,
 was born at Skipton, in 1709.
@@ -833,6 +884,8 @@ a minister forty-seven years.
 The following extract of a letter,
 written at the time of Thomas Gawthorp's last return from America, in 1778,
 gives some further particulars of him, and of the situation of affairs in Philadelphia:
+
+[.embedded-content-document.letter]
 --
 
 "`William Dillworth brought my brother, Thomas Gawthorp, home in a chaise;
@@ -856,11 +909,15 @@ though then in Philadelphia.`"
 (Letter from George Crosfield Westmoreland, to his son George Crosfield, Warrington,
 1778.)
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Pemberton.
 
+[.signed-section-context-open]
 Warrington, Twelfth month 8th, 1756.
 
 A time of deep poverty and leanness,
@@ -894,7 +951,7 @@ that by his help thou may offer an evening sacrifice of praise, and say.
 Oh!
 Lord, thou hast been with me from my youth to this hour.
 
-Our worthy friends, Abraham Farrington and Samuel Emien, have been at my house a week;
+Our worthy friends, Abraham Farrington and Samuel Emlen, have been at my house a week;
 the former has gone to visit a neighbouring county.
 I believe he will have great and good service amongst us.
 Samuel Emlen is not, at present, fit for much travelling, and is advised to lay by;
@@ -909,7 +966,10 @@ I think the clouds are heavy with a storm towards various parts of the British e
 scarcity of bread threatens us here,
 and is already severely felt by the poor in many parts of this land.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 At the close of the year 1756, and during the winter,
 there was much distress amongst the poor in Warrington, as well as in many other places,
@@ -924,6 +984,10 @@ but it effected the removal of those people from the town,
 and caused a subscription to be raised for the
 relief of the suffering part of the inhabitants.
 
+[.embedded-content-document.paper]
+--
+
+[.letter-heading]
 A few Hints addressed to the Inhabitants of Warrington, 1756.
 
 The present distress of our poor neighbours justly demands our attention,
@@ -977,15 +1041,21 @@ prove ourselves capable of rational and religious considerations;
 and thereby will be suggested to us, in a time of need, the calm,
 peaceful evidence of our having been good stewards of the manifold mercies of God.
 
+[.signed-section-closing]
 Inquire not who is the author of these remarks, but whether they are true.
 
+[.signed-section-signature]
 Philanthropos.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Pemberton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, First month 11th, 1757.
 
 Our yearly meeting at Burlington was a time of great favour to the upright.
@@ -1016,10 +1086,18 @@ the attainments which he had experienced;
 yet, alas!
 I must confess we lay it too little to heart.
 
+[.signed-section-signature]
 John Pemberton.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Lydia Lancaster to Samuel Fothergill.
 
+[.signed-section-context-open]
 Lancaster, First month 23rd, 1757.
 
 That pure love which I often feel bubbling up towards thee in the spring of Divine life,
@@ -1069,13 +1147,18 @@ but I may be mistaken, so shall leave it for time and truth to determine,
 and with a heart fruitful in love to thee, my beloved and valuable friend,
 and thy dear wife, I now conclude, and remain thy real, true, and constant friend,
 
+[.signed-section-signature]
 Lydia Lancaster.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Ellen Evans.
 
+[.signed-section-context-open]
 Warrington, Second month 4th, 1757.
 
 That affectionate regard which Truth itself raised mutually in our hearts,
@@ -1153,13 +1236,18 @@ as they followed Jesus Christ, follow ye them.
 Be wise, for it is true happiness: in wisdom you will fear to offend,
 and this fear is an excellent defence.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Warrington, Second month 4th, 1757.
 
 As the love I bear thee is sincere, I flatter myself it is reciprocal.
@@ -1206,13 +1294,19 @@ Remember, I entreat you, dear children, and humbly seek Him in youth,
 for religion and holy fear is the best embellishment of youth,
 and the safe and only guide through the difficulties and snares of life,
 as well as the excellent companion and solace of declining years.
+
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Pemberton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Second month 19th, 1757.
 
 On the 8th instant I received thy very affectionate epistle.
@@ -1249,13 +1343,18 @@ for many of thy expressions were applicable;
 for too great inattention has been my failing, and indeed I am surrounded with infirmity,
 and darkness often covers me.
 
+[.signed-section-signature]
 John Pemberton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to James Pemberton.
 
+[.signed-section-context-open]
 Warrington, Second month 25th, 1757.
 
 The ground of that pure and true friendship, which subsisted betwixt our worthy fathers,
@@ -1317,9 +1416,14 @@ and teach others also how to rejoice in the stability of God's salvation.
 Farewell, dear friend;
 may the most substantial of all blessings be diligently enough sought,
 and it will be found, and be an excellent defence.
+
+[.signed-section-closing]
 Thine in sincere affection,
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 In the spring of the year 1757, Samuel Fothergill had an alarming illness,
 which lasted a considerable time.
@@ -1344,11 +1448,13 @@ in this state of trials and dangers,
 knowing that if Divine wisdom called him out of it now,
 it would certainly be in the best time.`"
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Abraham Farrington to Samuel Fothergill.
 
+[.signed-section-context-open]
 Newtown, near Carlisle, Third month 19th, 1757.
 
 Yesterday I was at Carlisle monthly meeting; it was large.
@@ -1383,13 +1489,18 @@ the change may be from glory to glory.
 What am I writing, or to whom?
 If I have gone too far, do not expose me.
 
+[.signed-section-signature]
 Abraham Farrington.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Dr. Fothergill to Samuel Fothergill.
 
+[.signed-section-context-open]
 London, Third month 31st, 1757.
 
 Yesterday I received an agreeable account from cousin Charles Chorley of thy recovery.
@@ -1407,13 +1518,18 @@ and I write this after having mounted not less than fifty single pairs of stairs
 and some of them at no small distance from each other; but whilst I have any sense left,
 whether I am able to express it or not, I shall always remain thy affectionate brother,
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Emlen to Samuel Fothergill.
 
+[.signed-section-context-open]
 Dudley, Fourth month 4th, 1757.
 
 B+++.+++ M. and myself were favoured to get well to Stafford,
@@ -1488,13 +1604,18 @@ which will furnish true peace and durable comfort,
 when the most pleasing of temporal enjoyments sink into very nothingness,
 with respect to any satisfaction in their power to yield.
 
+[.signed-section-signature]
 Samuel Emlen, Jun.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Warrington, Fourth month 25th, 1757.
 
 I have had a long indisposition, being afflicted with the rheumatism and a fever,
@@ -1567,15 +1688,20 @@ and thus would Eternal Fulness plenteously diffuse more and
 more through the families of his people the riches of all ages,
 as they are made the chiefest joy.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Abraham Darby.^
 footnote:[Abraham Darby died at Colebrookdale, third month 31st, 1763.
 The marriage here mentioned was that of his daughter Hannah to Richard Reynolds.]
 
+[.signed-section-context-open]
 Warrington, Fifth month 14th, 1757.
 
 Thine I received this day, and have to acknowledge,
@@ -1611,17 +1737,26 @@ and yet an empty bubble, seek a city which hath foundations,
 laid and established before the foundation of the world was laid.
 Farewell, beloved friends, be wise, watchful and happy.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 At the approach of the yearly meeting he was sufficiently recovered to leave home,
 and accompanied his friend, Abraham Farrington, by easy stages to London,
 when they both attended that meeting.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Gurney^
 footnote:[John Gurney died eighth month 2nd, 1779, aged sixty-one.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Norwich, Fifth month 29th, 1757.
+
 When I last parted from thee at Gravesend, I could not think, if we both lived,
 that I should have missed seeing thee at the
 first yearly meeting in London after thy return,
@@ -1655,10 +1790,18 @@ I know not what I shall urge for my writing thee thus,
 but I found a desire to salute thee in a few lines.
 Thy affectionate friend,
 
+[.signed-section-signature]
 John Gurney.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Catharine Payton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Woodbridge, Sixth month 21st, 1757.
 
 In that love which neither time nor distance can efface--which
@@ -1703,13 +1846,18 @@ as he has of late years been industriously improving himself in the language:
 so far as I can yet discover, Providence smiles on the undertaking,
 and I humbly hope will favour us with peace therein.
 
+[.signed-section-signature]
 Catharine Payton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Pemberton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Sixth month 29th, 1757.
 
 I marvel not at the low, stripping seasons thou hast experienced,
@@ -1745,7 +1893,10 @@ and which that alone can inspire the soul with;
 it could not have been more suitably adapted had thou known his circumstances,
 he being then very low in mind.
 
+[.signed-section-signature]
 Mary Pemberton.
+
+--
 
 In the sixth month, 1757, Samuel Fothergill attended the quarterly meeting at York,
 and the following circumstance is related of him.
@@ -1763,8 +1914,13 @@ Samuel Fothergill saw the force and wisdom of the advice; he took his horse,
 and quietly departed towards home; and when afterwards adverting to the circumstance,
 he always spoke of it as an excellent admonition.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Catharine Payton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Norwich, Seventh month 6th, 1757.
 
 I cannot quite easily leave the nation,
@@ -1826,8 +1982,10 @@ having singularly united us in the best relationship;
 may our eyes be kept attentive to that which alone can make us helpful to each other,
 and give an impartial judgment of our prospects and services.
 
+[.signed-section-signature]
 Catharine Payton.
 
+[.postscript]
 P+++.+++ S.--I am this morning favoured with thine,
 which on thy own account affords me true satisfaction,
 although the low state thou art dipped into claims and obtains my sympathy;
@@ -1842,15 +2000,20 @@ The secret strippings and fears which I pass through, are only known to him;
 they frequently breathe this language--I have nothing to glory in but my infirmities,
 and the Divine mercy.
 
+[.signed-section-signature]
 Catharine Payton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Henry Gurney^
 footnote:[Henry Gurney died fourth month 7th, 1777.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Norwich, Seventh month 9th, 1757.
 
 Our worthy friends Catharine Payton and S. Hume, are still here,
@@ -1889,13 +2052,18 @@ intercede for our preservation, that we may hold fast the Truth,
 of which we are convinced, without wavering, and if it be the will of Providence,
 by example, and as He may otherwise appoint, contribute to promote his glory.
 
+[.signed-section-signature]
 Henry Gurney.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Samuel Emlen.
 
+[.signed-section-context-open]
 Warrington, Seventh month 25th, 1757.
 
 True friendship, like its synonymous virtue, charity,
@@ -1948,16 +2116,21 @@ but in the general situation of my mind,
 I feel less than the least of all true disciples.
 May the name of my God be exalted, though I am abased in dust and ashes.
 
-Farewell, dear Samuel, be vigilant and happy.
-Thine in truest affection,
+[.signed-section-closing]
+Farewell, dear Samuel, be vigilant and happy. Thine in truest affection,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Catharine Payton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Amsterdam, Eighth month 1st, 1757.
 
 We arrived at Helvoetsluys on the 22nd ult.,
@@ -2006,13 +2179,18 @@ Doubtless the difficulty I labour under has been a discouragement;
 but I cannot help thinking that had the visits of Friends been more frequent,
 that difficulty would have been less than it is.
 
+[.signed-section-signature]
 Catharine Payton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Emlen to Samuel Fothergill.
 
+[.signed-section-context-open]
 Swansea, Eighth month 1st, 1757.
 
 Thy acceptable letter furnished additional occasion of
@@ -2072,13 +2250,18 @@ to his own glory and to thy peace.
 That his arm may keep thee in hours of difficulty and deep distress,
 on account of those who are unmindful of their true and chief good, is my great desire.
 
+[.signed-section-signature]
 Samuel Emlen, Jun.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Warrington, Eighth month 18th, 1757.
 
 I am, through mercy, restored to a tolerable degree of health,
@@ -2108,13 +2291,18 @@ engaged in various and almost oppressive labour,
 yet at all times replenished with love to my friends,
 and amongst that number is very distinguishedly every branch of your family.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 Warrington, Ninth month, 1757.
 
 I salute thee and thine in true love.
@@ -2184,15 +2372,20 @@ and it is consistent with his righteousness to vary his voice,
 and teach them by the things they suffer, what is due to his arm,
 and the weakness of our own.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Greer^
 footnote:[Thomas Greer died in 1803, a minister upwards of fifty years.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Dungannon, Ninth month 9th, 1737.
 
 I have often thought of thee of late, and I think,
@@ -2233,13 +2426,18 @@ yet present in spirit,
 being as epistles in each other's hearts--I thought I
 would venture to give thee these few lines.
 
+[.signed-section-signature]
 Thomas Greer.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Catharine Payton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Kelvedon, Ninth month 10th, 1757.
 
 I should some days ago have made thee a sharer of the
@@ -2291,13 +2489,18 @@ wherein I found I had need to be better learned.
 
 My dear companion, Sophia Hume, left me this afternoon, being gone to London.
 
+[.signed-section-signature]
 Catharine Payton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 James Pemberton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Ninth month 15th, 1757.
 
 Public affairs on this Continent are remarkable for the confusion which attends them.
@@ -2348,15 +2551,21 @@ and I am frequently desirous of so conducting as to be
 preserved at least from injuring the testimony,
 or of administering uneasiness to them.
 
+[.signed-section-closing]
 I am, with much regard and affection, thy loving friend,
 
+[.signed-section-signature]
 James Pemberton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Emlen to Samuel Fothergill.
 
+[.signed-section-context-open]
 Bristol, Ninth month 26th, 1757.
 
 Thy affectionate lines I esteem an additional
@@ -2369,7 +2578,7 @@ by which the really living in the body, whereof Christ Jesus is the holy head,
 are united one to another.
 As we are humbly and reverently engaged to keep in this unity,
 no greater joy will be experienced by any one of us than a confirmed
-sense of the increasing strength in ourselves and fellowmembers,
+sense of the increasing strength in ourselves and fellow-members,
 and the advancement of each individual in Divine favour.
 
 Thy remark, that "`to move in the line of Divine appointment,
@@ -2402,11 +2611,15 @@ be what the Lord would have me to be,
 but under the operation of his hand there is need of patience, which,
 if he graciously furnish, it will be sufficient.
 
+[.signed-section-signature]
 Samuel Emlen, Jun.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Anthony Benzenet^
 footnote:[Of this virtuous, humble man, so well known for his philanthropy,
 and as an early and strenuous opposer of the Slave trade, little need be said here.
@@ -2430,6 +2643,7 @@ regard for this friend of their oppressed race,
 and of mankind at large.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 1st, 1757.
 
 Nothing but the deepest sense of inward poverty
@@ -2458,13 +2672,18 @@ do it I beseech thee.
 May the God of all consolation be with thee.
 From thy afflicted friend,
 
+[.signed-section-signature]
 Anthony Benezet.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Abraham Farrington to Samuel and Susanna Fothergill.
 
+[.signed-section-context-open]
 York, Tenth month 1st, 1757.
 
 This may just inform you that I yet live, although my suffering at times is considerable,
@@ -2519,13 +2738,18 @@ warmed with fire from above; or, if my Master would give the signal,
 and array me with his own livery, I would venture his pay.
 This, with dear love, from your poor old friend,
 
+[.signed-section-signature]
 Abraham Farrington.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Warrington, Tenth month 3rd, 1757.
 
 I am poor, very poor: I have a fund of affection and tenderness,
@@ -2558,13 +2782,18 @@ and found myself amongst his shepherds' tents;
 may the gain and glory be ascribed where it is ever due.
 I am, in the bonds of sincerest affection, thy loving brother,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Pemberton to Susanna Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 13th, 1757.
 
 I am at times mercifully favoured with a degree of that united love,
@@ -2612,13 +2841,18 @@ retain an affectionate remembrance of thy dear husband, and entertain, at times,
 a pleasing prospect of once more seeing him in Philadelphia,
 at which many beside them would rejoice.
 
+[.signed-section-signature]
 Mary Pemberton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Churchman to Samuel Fothergill.
 
+[.signed-section-context-open]
 East Nottingham, Tenth month 15th, 1757.
 
 I think that this yearly meeting,
@@ -2648,13 +2882,18 @@ know the anointing is upon the young, and the spirit is in them,
 though departed from themselves, because of disobedience:
 and who more jealous and spiteful than such at times are?
 
+[.signed-section-signature]
 John Churchman.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Anthony Benezet to Samuel Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 17th, 1757.
 
 I herewith send thee a new edition of John Everard's writings;
@@ -2709,13 +2948,18 @@ thou wouldest let me hear from thee.
 I salute thee, dear friend, and thy wife, and in the nearest and dearest manner,
 bid thee farewell.
 
+[.signed-section-signature]
 Anthony Benezet.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Catharine Payton to Samuel Fothergill.
 
+[.signed-section-context-open]
 Dudley, Eleventh month 11th, 1757.
 
 Our quarterly meeting is to be held at Worcester; I should be truly glad of thy company,
@@ -2766,15 +3010,23 @@ than gained strength and wisdom, in the exercise of the gift I am entrusted with
 which humbling dispensation I know was profitable, at the close of a journey,
 wherein I had been sometimes remarkably favoured.
 
+[.signed-section-signature]
 Catharine Payton.
+
+--
 
 In the eleventh month, 1757,
 Samuel Fothergill had a certificate from the monthly meeting,
 to visit the meetings of Friends in the city of London: no account of this visit remains,
 but some allusion is made to it in the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Lydia Lancaster to Samuel Fothergill.
 
+[.signed-section-context-open]
 Lancaster, Twelfth month 4th, 1757.
 
 Thy lines were very acceptable to me indeed,
@@ -2812,15 +3064,21 @@ than ever before; though I manage to get to meetings mostly,
 yet it is with much hardship, for my breathing is so obstructed,
 that I can speak but a few words together.
 
+[.signed-section-closing]
 Farewell, my friend and brother in the nearest kindred.
 
+[.signed-section-signature]
 Lydia Lancaster.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Tabitha Ecroyd.
 
+[.signed-section-context-open]
 Warrington, Second month 12th, 1758.
 
 So strong and engaging is that precious unity,
@@ -2864,7 +3122,7 @@ for our admission into that which is within the veil,
 and improve to profit every revolution of the Lord's seasons,
 whether they are the singing of birds,
 the joyful chorus of souls raised at times above the clogs of mortality, or,
-with immaculate Purity and the Heir of Glory, breathe out, Eloi, lama sabachthani.
+with immaculate Purity and the Heir of Glory, breathe out, __Eloi, lama sabachthani.__
 
 Few, very few, there are who are baptized into this cloud; there are many instructors,
 even amongst us, who had need to be afresh instructed in the oracles of religion;
@@ -2911,15 +3169,21 @@ it will be duly administered.
 Farewell, dear friend; let us be mindful of our father's God; he remains to be ours;
 and generation tells to generation his acts, and worships his everlasting arm.
 
+[.signed-section-closing]
 I am, in the unmixed fellowship of gospel love, thy friend and brother in Jesus,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Ann Fothergill to her Brother Samuel.
 
+[.signed-section-context-open]
 London, Third month 8th, 1758.
 
 I sat down to write to thee with a degree of ease and
@@ -2952,13 +3216,18 @@ spreads over the mind, on his account,
 rather a pleasing sympathy with him in his happy change, than any painful regret,
 but for the loss we have sustained.
 
+[.signed-section-signature]
 Ann Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Pemberton.
 
+[.signed-section-context-open]
 Warrington, Third month 9th, 1758.
 
 Some person told me, before I left your country,
@@ -3010,13 +3279,18 @@ and by an early choice of the paths of wisdom and truth,
 fill up their duty to their parents, their God, and his people, in this their day,
 that the diadem of peace might be with them for ever.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Yarnall.
 
+[.signed-section-context-open]
 Warrington, Third month 9th, 1758.
 
 I have not forgotten the relief which I at times met with when in your country,
@@ -3086,13 +3360,18 @@ for a beloved father's return to you in safety, and with sheaves in his bosom.
 With a heart replenished with unfeigned love, I salute thee, dear friend,
 and all the children capable of receiving it, and am thy very affectionate friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Warrington, Third month 1st, 1758.
 
 I received thy acceptable letter, and as I am often anxiously thoughtful about you,
@@ -3146,13 +3425,18 @@ I have never yet seen cause to recede from the judgment
 of Friends who signed the Epistle of Love and Caution,
 and I believe our yearly meeting will scarcely decide the point, or meddle with it.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Pemberton.
 
+[.signed-section-context-open]
 Warrington, Third month 10th, 1758.
 
 That affectionate regard that lived with me
@@ -3207,13 +3491,18 @@ finding work in my own vineyard, and according to my measure, in the church of C
 My wife is as well as for several years,
 and joins me in the tenders of dear love to thy worthy, honourable mother and thyself.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to James Pemberton.
 
+[.signed-section-context-open]
 Warrington, Third month 20th, 1758.
 
 I was well pleased with the receipt of thine,
@@ -3279,14 +3568,19 @@ The salutation of kind and tender love reaches to her,
 and may the Holy One speak comfortably to her.
 Thy assured, affectionate friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Hannah Logan.^
 footnote:[Wife of William Logan, and daughter of George and Mary Emlen.]
 
+[.signed-section-context-open]
 Warrington, 1758.
 
 Neither time nor distance hath effaced thee out of my remembrance and near regard,
@@ -3337,13 +3631,18 @@ we shall not assume the Divine prerogative in fixing judgment,
 or decline our patient waiting until our Lord comes, who can do all for us,
 yea more abundantly than we dare expect or ask.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Dr. Fothergill to His Brother Samuel.
 
+[.signed-section-context-open]
 London, Third month 30th, 1758.
 
 I now write that I may not seem to forget thee long together; forget thee, I cannot.
@@ -3363,13 +3662,18 @@ but if I can be kept so far alive as to rejoice when the will of heaven is done,
 I shall be satisfied, if nothing more is permitted to be my portion.
 I am, as much as ever, thy
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Emlen to Samuel Fothergill.
 
+[.signed-section-context-open]
 Bristol, Fourth month 18th, 1758.
 
 Our valuable friend Mordecai Yarnall and myself are both here, and through mercy,
@@ -3434,13 +3738,18 @@ when any interval of leisure for it presents to thee; and that, with a father's 
 thy counsel may be made known before we meet each other.
 I desire honestly to attend to the dictates of best wisdom, if vouchsafed.
 
+[.signed-section-signature]
 Samuel Emlen, Jun.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Emlen to Susanna Fothergill.
 
+[.signed-section-context-open]
 Bristol, Seventh month 18th, 1758.
 
 I have seldom heard children blamed for telling their parents, guardians,
@@ -3456,7 +3765,6 @@ we took a post chaise about sixteen miles of the very rough road,
 and thereby easing ourselves and our horses,
 we were favoured to get near sixty miles the first day,
 and the next morning to Dudley meeting.
-
 We found our friends there bravely in health.
 
 I was much pleased, and hope to be profited, with my late visit to that family,
@@ -3490,15 +3798,23 @@ May a diligent, honest attention to its direction be with him;
 then I think he will yet witness preservation,
 though his present state of mind seems not to be exaltation.
 
+[.signed-section-signature]
 Samuel Emlen, Jun.
+
+--
 
 In the sixth month of this year,
 Samuel Fothergill had a certificate from the monthly meeting
 to pay a religious visit to Friends in the north of Yorkshire,
 Durham, Cumberland, and Westmoreland; and he soon afterwards proceeded upon the service.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Newcastle-upon-Tyne, Eighth month 7th, 1758.
 
 Thy very acceptable lines to Scarborough came in course;
@@ -3532,13 +3848,18 @@ but every repining thought vanishes,
 when I consider it is a stewardship in that house in which I
 have been absolutely unworthy of the very lowest place.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Warrington, Ninth month 7th, 1758.
 
 If our Lord and Master vary the dispensations of his providence, it is for some good end.
@@ -3573,7 +3894,10 @@ Accept, my dear friend, to thyself and family,
 the salutes of that affection that remains through all the vicissitudes of my life,
 in the breast of thy affectionate, cordial friend,
 
- Samuel Fothergill.
+[.signed-section-signature]
+Samuel Fothergill.
+
+--
 
 From the visit to the North of England, he returned with impaired health,
 and his journey to attend the Circular yearly meeting increased his indisposition.
@@ -3587,11 +3911,19 @@ for further labour in his service.
 Being thus rendered unable to attend the monthly meeting,
 he returned his certificate with the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Hardshaw Monthly Meeting.
 
+[.signed-section-context-open]
 Warrington, Eleventh month 21st, 1758.
 
-Dear Friends, It was my intention to have personally delivered to you the certificate,
+[.salutation]
+Dear Friends,
+
+It was my intention to have personally delivered to you the certificate,
 you were pleased to grant me in the sixth month last;
 but having been visited with a dangerous indisposition,
 from which I am not wholly recovered, I am obliged to send it in this manner.
@@ -3619,15 +3951,21 @@ for they are gloomy, and the mouths of multitudes are opened, and further openin
 against us; and alas for the occasion administered,
 and the things found against too many of our members, not concerning the law of our God!
 
+[.signed-section-closing]
 I remain your friend and brother in that which remains forever,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to His Brother and Sister.
 
+[.signed-section-context-open]
 Warrington, Eleventh month 26th, 1758.
 
 This morning, about the fourth hour, dear sister Hannah^
@@ -3653,13 +3991,18 @@ I am, dear brother and sister,
 with the strongest wishes for our preservation to that holy inheritance,
 your affectionate brother,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Anthony Benezet to Samuel Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 27th, 1758.
 
 I have now for a long time been much closed up from writing,
@@ -3844,13 +4187,18 @@ Whether this matter will appear to thee or others in
 the weighty and extensive view it does to me,
 or not, I must leave, and remain thy friend,
 
+[.signed-section-signature]
 Anthony Benezet.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 Warrington, 1759.
 
 Many sympathize with their brethren amongst you, who suffer for conscience' sake,
@@ -3880,13 +4228,18 @@ in every needful time.
 Farewell, beloved friend, let us remember each other when we can,
 and carefully watch to the end.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Pemberton.
 
+[.signed-section-context-open]
 Warrington, Second month 1st, 1759.
 
 I am indebted to thee for the affectionate tokens of thy remembrance,
@@ -3940,13 +4293,18 @@ Whatever my heart is susceptible of, in the time of enlargement,
 to the family and my fellow believers, in that I most affectionately salute thee,
 thy dear husband, and children.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Pemberton.
 
+[.signed-section-context-open]
 Warrington, Fifth month 26th, 1759.
 
 The friendship I had the great happiness to contract with thy dear husband and self,
@@ -3992,13 +4350,18 @@ but the same humble, diffident, lamb-like Christian he ever was,
 though I think him more deep in heavenly mysteries than ever.
 Thy faithful friend,
 
- Samuel Fothergill.
+[.signed-section-signature]
+Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Warrington, Seventh month 18th, 1759.
 
 There is a union and converse of spirit whose language
@@ -4063,15 +4426,23 @@ nor derogate from the rectitude of his allotments, by the glooms of nature.
 Remember me affectionately; tell me so when thou can,
 and be assured of my most affectionate regard from every motive.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 In the autumn of 1759,
 Samuel Fothergill performed an extensive visit
 to Friends in many parts of the west of England,
 also in the city of Bristol, and some other places.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 St. Ives, Ninth month 2nd, 1759.
 
 Through the gracious help of Providence,
@@ -4091,13 +4462,18 @@ I long much to hear from thee.
 I hope to be at Plymouth on fifth-day evening next, at Exeter on first-day,
 and Bristol on fourth.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Catharine Payton.
 
+[.signed-section-context-open]
 Warrington, Eleventh month 3rd, 1759.
 
 Since my return home, I have been favoured with an acceptable letter from thee,
@@ -4154,13 +4530,18 @@ and simply to stand in the counsel of God; then how, where, and what we are,
 will be perfectly right.
 The Lord direct thy steps in wisdom, prudence and zeal.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Warrington, Eleventh month 13th, 1759.
 
 Though neither my inclination nor capacity allow my
@@ -4251,13 +4632,18 @@ in humble confidence in the sure Helper of all who love and fear him.
 I will conclude with the assurance of sincere affection for you all,
 in that which remains through all the changes of time.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Pemberton.
 
+[.signed-section-context-open]
 Warrington, Twelfth month 2nd. 1759.
 
 The emotions of pure friendship, which often warm my mind towards thee,
@@ -4297,5 +4683,7 @@ If we, on our part, remember and follow as we ought, our Rock will not sell us,
 nor ever fail; the Lord our righteousness will make way for us,
 and exalt our drooping heads in his own time.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
+--

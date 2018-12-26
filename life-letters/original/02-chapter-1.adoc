@@ -1,4 +1,4 @@
-== Memoirs Of The Life And Gospel Labours Of Samuel Fothergill.Chapter I.
+== Chapter I.
 
 In contemplating the characters and services of those chosen servants of the Lord, whom,
 in his Divine Providence, he does, from time to time, raise up in his church,
@@ -300,10 +300,16 @@ The following letter, addressed to her during his absence,
 presents a beautiful expression of affection proceeding from the surest source,
 and based upon the safest foundation--a true love and unity in the fear of God.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to Margaret Hough.
 
+[.signed-section-context-open]
 3rd of Twelfth month, 1706.
 
+[.salutation]
 My near friend,
 
 Having thee often fresh in my remembrance, in a near and tender manner,
@@ -342,7 +348,10 @@ which in a solid manner runs forth to thee in sympathy with thee in various stra
 and in the continuance of it doth tenderly embrace thee,
 and remain thy near friend and fellow traveller in many besetments.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 On the 5th of the third month, 1709,
 John Fothergill and Margaret Hough were united in marriage.
@@ -456,4 +465,3 @@ they were seen and remembered by their Father in heaven;
 his love and power mercifully visited their hearts;
 in an especial manner was this gracious visitation extended to her son Samuel,
 who became an eminent and favoured servant of his Lord.
-

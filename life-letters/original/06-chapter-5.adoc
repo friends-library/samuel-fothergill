@@ -45,8 +45,13 @@ And about the same time Susanna Croudson had also been engaged, with certificate
 on a religious visit to Friends of Bristol and that neighbourhood.
 The following letters relate to these engagements.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Susanna Croudson to Samuel Fothergill.
 
+[.signed-section-context-open]
 Worcester, Sixth month 16th, 1737.
 
 I have felt the weight of the burden to be very heavy upon me, and none to help,
@@ -59,13 +64,18 @@ however foolish I might appear in the sight of men.
 
 Remember me when it is well with thee, for I have need of the help of my friends.
 
- Susanna Croudson.
+[.signed-section-signature]
+Susanna Croudson.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Susanna Croudson to Samuel Fothergill.
 
+[.signed-section-context-open]
 Bristol, Sixth month 27th, 1737.
 
 Thine was very acceptable, and came in a needful time, when I was very low;
@@ -80,13 +90,18 @@ and I believe it is good for us all to see our weakness sometimes,
 that we may know that we have no might of our own, and may be willing to seek for help,
 that we do not grow lukewarm.
 
+[.signed-section-signature]
 Susanna Croudson.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Susanna Croudson to Samuel Fothergill.
 
+[.signed-section-context-open]
 Warrington, 1738.
 
 Thou art often in my thoughts, yet not with any heaviness,
@@ -106,13 +121,18 @@ of the poor and helpless that have no might of their own;
 my heart is filled with sympathizing encouragement towards thee,
 more than I can write at this time.
 
+[.signed-section-signature]
 Susanna Croudson.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Susanna Croudson.
 
+[.signed-section-context-open]
 Middlewich, 1738.
 
 Thy letter was not only pleasing, but very encouraging and helpful,
@@ -134,13 +154,18 @@ my heart is open towards thee in the nearest and tenderest of affections,
 and therefore lets my pen run thus.
 Cousin Lawrence Callan came yesterday, and we think to be at Nantwich tomorrow.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Susanna Croudson.
 
+[.signed-section-context-open]
 Chester, Third month 2nd, 1738.
 
 Through mercy I am well as to my health,
@@ -155,7 +180,10 @@ Peter Leadbeater went with me to Wrexham on first-day,
 when we had a satisfactory meeting: there are a very few Friends,
 but pretty many that are not of our name--a religious, quiet people,
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 From this correspondence it will be seen that the friendship
 between Samuel Fothergill and Susanna Croudson still continued.
@@ -177,9 +205,14 @@ and encouraging him in the many services to which he was so frequently called.
 
 The following letters may be suitably introduced in this place.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son Samuel.
 
-"`Netherdale, Eighth month 1st, J738.
+[.signed-section-context-open]
+"`Netherdale, Eighth month 1st, 1738.
 
 I am glad to hear of your health, and also of +++[+++your]
 hope to live: the latter I doubt not, either with respect to here or hereafter,
@@ -197,13 +230,18 @@ but am earnest and tender in true longing for your right thriving and
 preservation in the way of wisdom in every respect,
 and salute you both in a sense of best love: your truly loving and careful Father,
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to his Sister.
 
+[.signed-section-context-open]
 London, Eighth month 20th, 1738.
 
 A few days ago I was plunged very low; a view of my present situation,
@@ -245,11 +283,15 @@ Dear sister, cease not to strive, though discouragements may too much prevail:
 may happiness attend thee.
 Farewell.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Peter Leadbeater^
 footnote:[ Peter Leadbeater was a minister, and well esteemed in his day.
 He is spoken of as being "`serviceable in his tender and seasonable advice;
@@ -260,6 +302,7 @@ He died at Chester, on the 13th of seventh month, 1751, aged fifty eight;
 a minister about forty three years.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Chester, Eleventh month 18th, 1738.
 
 I may say thou art daily and almost hourly in my remembrance since we parted,
@@ -289,10 +332,20 @@ may the same arm of power still be underneath,
 to support unto the end through whatever I may yet have to pass,
 in which I will put my confidence.
 O, Lord, let me never be confounded.
-Thy truly sorrowful and afflicted brother and companion, Peter Leadbeater.
+Thy truly sorrowful and afflicted brother and companion,
 
+[.signed-section-signature]
+Peter Leadbeater.
+
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to Samuel Fothergill.
 
+[.signed-section-context-open]
 London, Twelfth month 21st, 1738.
 
 I had an entire satisfaction in reading thine,
@@ -340,7 +393,10 @@ The anxious pressure I feel, perhaps, makes my expressions not guarded;
 I write to a brother whose assistance I am far from rejecting;
 let me hear from thee as soon as thou hast freedom.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 Soon after the return of John Fothergill from his last visit to America,
 he went to the Quarterly Meeting at York, which was large,
@@ -406,8 +462,13 @@ Cumberland, and some parts of Yorkshire.`"
 
 Several of the following letters relate to these engagements.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Peter Leadbeater to Samuel Fothergill.
 
+[.signed-section-context-open]
 Chester, 1739.
 
 I am truly glad, in humble thankfulness to the God and Father of all our mercies,
@@ -459,13 +520,18 @@ in doing which we shall be his disciples indeed.
 Love, boundless love, from Him who is love altogether: in this I salute thee,
 and am thy sincere friend and brother,
 
+[.signed-section-signature]
 Peter Leadbeater.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Carmarthen, First month 26th, 1739.
 
 I am, through continued mercy, very well in health,
@@ -482,13 +548,18 @@ Believing myself in the way of my duty makes me more easy that
 the Everlasting Preserver will remember us in merciful regard,
 and will give us again to be sensible of his Divine favour together.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Bristol, Second month 20th, 1739.
 
 I have now been nearly two weeks by myself,
@@ -507,13 +578,18 @@ near oneness and acquaintance one with another;
 thy remembrance is near and dear to my soul--next to the spouse, the lamb's wife,
 nothing stands in competition with thee.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Dr. Fothergill to Susanna Fothergill.
 
+[.signed-section-context-open]
 London, Third month 24th, 1739.
 
 Perhaps this may come to thy hands sooner than brother gets home; if so,
@@ -535,13 +611,18 @@ and in part making him what he is.
 The sensible part of Friends here have unity with him; the rest, who applaud or condemn,
 as mere fancy leads them, are not to be hearkened to.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Warrington, Fifth month 18th, 1739.
 
 Thy very acceptable letter is come to hand.
@@ -567,16 +648,24 @@ Nothing, my dearest, would be more satisfactory to me than to enjoy thy company;
 nevertheless, I would not stint thee in respect of time--take thine own time,
 and fully make thyself easy before thou return, that the answer of peace may attend thee.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son Samuel.
 
+[.signed-section-context-open]
 Leeds, Seventh month 8th, 1739.
 
-Dear Samuel, Be assured,
+[.salutation]
+Dear Samuel,
+
+Be assured,
 I think both carefully and affectionately often of thee and thine;
 yet I more praise that gracious power,
 which hath shown such mercy to us in raising thee as from death,
@@ -596,13 +685,18 @@ My salutation is truly affectionate and loving to you all,
 my dear and loving sons and daughters,
 hoping as well as desiring all your health and comfort.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to his Brother Samuel.
 
+[.signed-section-context-open]
 London, Seventh month 15th, 1739.
 
 I received thy acceptable letter along with dear father's,
@@ -612,7 +706,7 @@ my heart was filled with thankfulness, not only for such a parent,
 but also that I could see some marks of that treasure of goodness,
 which it has pleased Divine love to place and treasure up in his soul.
 The wisdom of his conduct, his uprightness and humility, often affect me,
-and make me wish, "`Oh, si ut alter ab illo?
+and make me wish, "`__Oh, si ut alter ab illo?__`"
 Well, let us incite each other to a more close regard to that
 power which can make us in some degree like him;
 we shall then perform the duty we owe to each other;
@@ -623,7 +717,10 @@ Thou art nearer the bright day than I am--thou can act more regularly,
 as having more light.
 I wish to possess my soul in patience, and follow after the footsteps of the holy flock.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 Early in the year 1740,
 Samuel Fothergill was engaged with a certificate in a religious visit,
@@ -640,8 +737,13 @@ though many weighty, experienced ministers were present; and,
 our good Master being with us, it proved a refreshing, satisfactory,
 and edifying meeting.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 James Wilson's, near Sedbergh, Third month 21st, 1740.
 
 Well, dearest, let us be easy in separation,
@@ -668,13 +770,18 @@ Thus have I abruptly hinted at my case one way.
 Yet I trust in the great Helper and Deliverer of his people from under oppressions.
 As to my body it is through mercy very well.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Carr-End, Third month 25th, 1740.
 
 I am through mercy very well in health, and pretty easy and quiet in mind,
@@ -695,13 +802,20 @@ which helped me out of a very low place--a place of
 great want--and in some good degree renewed my strength.
 
 My love flows strongly towards thee--that love that absence doth not diminish,
-nor separation lessen Samuel Fothergill.
+nor separation lessen,
 
-[.asterism]
-'''
+[.signed-section-signature]
+Samuel Fothergill.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Malton, Fourth month 20th, 1740.
 
 After a fatiguing week, I now find a little opportunity to write to thee.
@@ -735,7 +849,10 @@ helping through depressing and trying times in many places; but the best are res
 to recover my drooping, wounded soul;
 blessing and honour be to him who lives and reigns for ever and ever.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 In this year, (1740,) John Fothergill, though under much bodily weakness,
 attended the yearly meeting in London, wherein, at the desire of his brethren,
@@ -763,8 +880,13 @@ In the latter part of the year 1741,
 he visited Friends in several of the northern counties.
 The following letters were written about the time of these engagements.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son John.
 
+[.signed-section-context-open]
 Ninth month 27th, 1740.
 
 I have been, and am, through merciful favour, preserved in usual health,
@@ -816,13 +938,18 @@ if properly retained and carefully cherished on thy part, I cannot but comfortab
 heavenly Help will mercifully regard: so be it.
 Amen.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
-John Fothergill to +++_____+++.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+John Fothergill to +++_______+++.
+
+[.signed-section-context-open]
 Ninth month 6th, 1741.
 
 I cannot lose hope, nor almost full expectation, but that the Divine power,
@@ -855,15 +982,19 @@ though we met with several afflicting cases, besides the common heaviness,
 or want of proper hunger, which is, more or less,
 almost a general hurt.--I had the good company of Michael Lightfoot most of the time.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son Samuel.
 
-Darley.
-Tenth month 10th, 1741.
+[.signed-section-context-open]
+Darley. Tenth month 10th, 1741.
 
 As you, my truly beloved sons, with your dear wives, whom I sincerely value,
 are much in my remembrance in love,
@@ -909,7 +1040,10 @@ So fare you all well, dear children,
 in devoted pursuit of heart to be obedient children of the Lord God,
 saith your nearly loving father,
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 In 1742, after visiting Friends in Oxfordshire,
 he again attended the yearly meeting in London, wherein the same lively zeal, which,
@@ -920,8 +1054,13 @@ for the prosperity and growth of truth and righteousness, was again conspicuous.
 The concern of mind which he had for some time felt to visit Friends in Ireland,
 was now matured, and was communicated to his son in the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son Samuel.
 
+[.signed-section-context-open]
 London, Fourth month 5th, 1742.
 
 I have had a desire to impart some thoughts to
@@ -940,7 +1079,10 @@ there may be the more strong ground of hope our going
 together may be sanctified to us and our friends.
 Meet me at York, with a few lines in answer hereto.
 
+[.signed-section-context-close]
 John Fothergill.
+
+--
 
 Samuel Fothergill having some prospect on his own mind of a visit to Ireland,
 received this proposal with much satisfaction;
@@ -954,8 +1096,13 @@ and his visit to Ireland did not take place until the year 1744.
 
 Some account of his father's visit will be found in the following letters.
 
-John Fothergill to +++______+++.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+John Fothergill to +++_______+++.
+
+[.signed-section-context-open]
 Chester, Sixth month, 1742.
 
 My hands and thoughts have been busy in hastening to
@@ -973,13 +1120,18 @@ through the grace from on high,
 I believe we shall not be neglected or forgotten
 of the all-knowing Fountain of every good thing.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Dr. Fothergill to his Sister.
 
+[.signed-section-context-open]
 London, Sixth month 28th, 1742.
 
 I have received a letter from dear father, from Dublin;
@@ -1010,13 +1162,18 @@ and I not better provided, either for this life or another.
 But I hope to cherish the thought, and make it my chief endeavour, to secure the last,
 and be content with whatever may be my lot as to the first.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
-John Fothergill to +++_____+++.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+John Fothergill to +++_______+++.
+
+[.signed-section-context-open]
 Mountrath, 1742.
 
 I have kept closely stirring along, and much employed,
@@ -1043,7 +1200,10 @@ the staying comfort whereof is highly worthy of our secret notice,
 and solid commemoration I have been round the southern parts, and am now near the middle,
 going northward, and hope to be at Dublin at the half-year's meeting.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 After his return from Ireland, John Fothergill continued much about home,
 visiting the neighbouring meetings as his health permitted; this grew more precarious,
@@ -1055,6 +1215,10 @@ and their increase in Divine experience and steady
 progress in the paths of humility and dependence,
 his soul was often deeply engaged.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to Frances Henshaw^
 footnote:[Frances Henshaw, afterwards Frances Dodshon, was born near Leek,
 in the year 1714.
@@ -1074,6 +1238,7 @@ she laboured much in the exercise of this gift, and travelled extensively.
 She had to pass through many afflictions, both spiritually and temporally.
 She lived to an advanced age, and died in the eighth month, 1793.]
 
+[.signed-section-context-open]
 Darley, First month 12th, 1743.
 
 I had thee so much in remembrance in a loving care and sympathy,
@@ -1126,7 +1291,13 @@ most gracious Power which ever brings into a right mind:
 thus mayest thou be regarded and helped, and so farewell my friend,
 beloved for the Father's sake.
 
-Thy sincerely affectionate friend, John Fothergill.
+[.signed-section-closing]
+Thy sincerely affectionate friend,
+
+[.signed-section-signature]
+John Fothergill.
+
+--
 
 In the spring of 1743 his health and strength were much reduced, yet,
 though with some difficulty, he attended in the sixth month,
@@ -1148,4 +1319,3 @@ yet I am not forsaken of the everlasting Helper In a renewed consideration,
 and in a degree of the sense of his manifold mercies,
 and fatherly regard and succour hitherto, my heart worshippeth his name,
 and greets thee in love and true well-wishing.`"
-

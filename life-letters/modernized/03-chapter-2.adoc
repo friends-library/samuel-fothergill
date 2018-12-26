@@ -36,7 +36,7 @@ From Barbadoes they sailed for England, where they were favored to arrive safely
 in the fourth month, 1724, having been absent three years.
 Upon landing, they proceeded to London; and to the yearly meeting, then just commenced,
 an account was given by John Fothergill of their travels,
-and of the state of Friends in America, of which the following is an abridgement.
+and of the state of Friends in America, of which the following is an abridgment.
 
 "`We first acknowledge, in humble reverence to the Lord Almighty,
 that he mercifully favored us with his love and countenance very often upon the sea,
@@ -171,8 +171,13 @@ he says--"`I returned home with peace and true satisfaction, through the Lord's 
 whose holy and great name had and has the praise, who is worthy to be feared, served,
 and magnified for ever.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From Joseph Pike to John Fothergill.
 
+[.signed-section-context-open]
 Cork, Eighth month 30th, 1725.
 
 In that love which reaches over sea and land, do I at this time salute you,
@@ -304,9 +309,13 @@ both known and unknown to me, who truly love the Lord Jesus,
 with whom I have fellowship in the holy seed of life, all the world over,
 more especially those that are zealous for his name.
 
+[.signed-section-closing]
 I remain your truly loving and affectionate friend and brother,
 
+[.signed-section-signature]
 Joseph Pike.
+
+--
 
 In the year 1726, having accomplished the several services then required of him,
 and finding himself at liberty to attend more to his temporal concerns,
@@ -362,6 +371,10 @@ From Bristol they went into Devonshire and Cornwall,
 and returned through several of the midland counties.
 From Port Isaac he wrote the following letter:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 From John Fothergill to +++_________+++.
 
 "`My health is sustained mercifully,
@@ -382,7 +395,10 @@ in this county;
 we expect it will be near three weeks before we get through Somersetshire,
 from which we propose to go homewards pretty readily.`"
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 For a considerable time after his return from this visit, he remained at and near home;
 and during this period, as well as at many other times,
@@ -392,6 +408,10 @@ earnestly exhorting them to mind the day of their visitation,
 and humbly and steadily to seek the Lord and his truth.
 The following are some of the letters written about this time.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son John.
 
 "`And some tastes +++[+++thus]
@@ -434,20 +454,24 @@ And thus, dear child, may the hand of the God of the living be with you,
 and guide you in his counsel, and to his praise:
 and this is my earnest longing for you.`"
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son John.
 
-"`Wherefore, dear son, as a wise man has exhorted, with all your getting,
+"`Therefore, dear son, as a wise man has exhorted, with all your getting,
 get understanding.
 I accordingly entreat you to seek principally after
 improvement in acquaintance with the sanctifying hand,
 and to learn the way and the end of its turning; and also that stillness is required,
 when we see that no hand but the Lord's can open the way, and bring the longed-for help.
-And yet that help and salvation is to be looked for reverently and hopingly;
+And yet that help and salvation is to be looked for reverently and with hope;
 and in so applying on our part, the Lord our gracious God does, and will,
 delight to regard, and work so that his arising may fill the soul,
 and engage it in present gladness, and strengthened faith in his arm, and renewed trust,
@@ -477,11 +501,15 @@ and all sufficiency; and I fully believe he will be your God, your Saviour,
 your Shepherd, to lead and feed you, your Shield, and exceeding great reward.
 Amen.`"
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son John.
 
 "`As my mind has been concerned in much affectionate care on your account,
@@ -506,5 +534,7 @@ and yielding and leaning aside always weakens and enslaves,
 and renders that dwarfish which the Lord of all power would make strong, healthy,
 and sound, and able to walk in his way with alacrity.`"
 
+[.signed-section-signature]
 John Fothergill.
 
+--

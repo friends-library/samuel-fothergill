@@ -43,6 +43,10 @@ but on account of the political troubles which prevailed,
 owing to the irruption of the Scots into England,
 her visit was delayed until the following year.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to Joshual Toft.^
 footnote:[Joshual Toft was the intimate friend of Samuel Fothergill,
 and his "`fellow-labourer in the gospel of Christ.`"
@@ -65,6 +69,7 @@ he said he had received much consolation from a most gracious promise extended t
 He died at his house at Hargate, near Leek, the 15th of the eighth month, 1769,
 aged upwards of eighty, a minister forty-eight years.]
 
+[.signed-section-context-open]
 London, Fourth month 2nd, 1746.
 
 Those that are at heart concerned for the welfare of the Society,
@@ -103,7 +108,10 @@ and at length puff up the poor instrument if possible.
 We are all susceptible, in some degree, of these impressions,
 unless we are upon the strictest guard.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 In the year 1746, Samuel Fothergill paid a religious visit to Cumberland and Scotland;
 in the following year he was engaged in a visit to Friends in Warwickshire, Oxfordshire,
@@ -114,8 +122,13 @@ His wife also visited Worcestershire and Gloucestershire.
 
 In 1748 he paid a visit to Friends in Cumberland, and also to the city of Bristol.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to his Sister.
 
+[.signed-section-context-open]
 Eighth month 23rd, 1746.
 
 There are times when we are drawn to retirement, and it is made beneficial to us;
@@ -146,15 +159,20 @@ yet I felt then, what you had felt before.
 
 I could not have been fully satisfied with my journey without some such opportunity.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Lawford Godfrey.^
 footnote:[Lawford Godfrey resided at Exeter, and died in that city,
 on the 10th of the eleventh month, 1747, aged sixty-six, a minister nearly forty years.]
 
+[.signed-section-context-open]
 Tenth month 11th, 1747.
 
 My mind was reverently humbled before the Almighty,
@@ -220,13 +238,18 @@ I am, with the salutation of strongest affection, that is everlasting in duratio
 and unchangeable in its nature,
 thy brother and fellow sufferer in the patience and tribulation of Christ's kingdom.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Joshua Toft.
 
+[.signed-section-context-open]
 Warrington, Sixth month 19th, 1748.
 
 This summer I have made an excursion to Scarborough,
@@ -235,7 +258,7 @@ The consciousness of an honest intention,
 and of room for the testimony amongst those without,
 together with evident tokens of the Great Master's regard, afforded, and still doth,
 a lively degree of satisfaction and comfort;
-but to view the state of the Church in sundry places, particularly in +++_____+++,
+but to view the state of the Church in sundry places, particularly in +++_______+++,
 gives a good deal of pain: some few keep their places,
 but the generality are the most insensible,
 unfeeling people I ever was concerned amongst.
@@ -253,7 +276,10 @@ and of which Samuel Fothergill was a very frequent attender.]
 meeting, I hear, was remarkably large, but I fear not altogether satisfactory.
 I had great hopes thou would have been there.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 In the year 1749, Samuel Fothergill again visited some of the midland counties,
 and the city of London;
@@ -274,8 +300,13 @@ London, 1753.) In 1750, Samuel Fothergill attended the National meeting for Irel
 held in Dublin, and in 1752 he paid another visit to the city of Bristol.
 In most of these years he attended the yearly meeting in London.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Brother John.
 
+[.signed-section-context-open]
 Warrington, Tenth month, 1750.
 
 I am sorry to find thy fears respecting the improvement of Friends, where I have been,
@@ -373,15 +404,21 @@ that the blessing of preservation may rest upon
 us through all the mazes of our probation,
 to an inheritance in everlasting quiet.
 
+[.signed-section-closing]
 I am yours, in union more near than the ties of nature,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Thomas Greer to Samuel Fothergill.
 
+[.signed-section-context-open]
 Dungannon, Ninth month 18th, 1750.
 
 Glad would I have been to have had a little conversation with thee when in Dublin,
@@ -422,13 +459,18 @@ be fully answered, by every one who has been favoured with having his condition 
 in the demonstration of the Spirit and with power--for certainly the Gospel trumpet
 hath given a certain sound--becoming so wise as to repair to the battle.
 
+[.signed-section-signature]
 Thomas Greer.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Thomas Greer.
 
+[.signed-section-context-open]
 Warrington, Eleventh month 20th, 1750.
 
 I received in Dublin a letter from thee, which gave me satisfaction;
@@ -482,11 +524,15 @@ hope for its salvation, and it will never fail.
 I salute thee in the love and affection of Christ, our holy and blessed helper,
 and remain thy faithful friend.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Peisley^
 footnote:[Mary Peisley was a well-esteemed minister.
 She visited America in company with Catharine Payton.
@@ -494,6 +540,7 @@ She was subsequently married to Samuel Neale, and three days afterwards, viz.,
 on the 20th of Third month, 1757, she departed this life.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Paddock, Eleventh month 28th, 1750.
 
 Thy lines carry with them the reaching, convincing evidence of that soft,
@@ -523,11 +570,15 @@ Do, dear friend, write freely;
 and if thou hast observed any thing in my conduct that thou thinkest reprovable,
 do not spare me, for I know that I want help.
 
+[.signed-section-signature]
 Mary Peisley.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Catharine Payton.^
 footnote:[For many years an intimate friendship and frequent correspondence
 was maintained between Samuel Fothergill and Catharine Payton.
@@ -540,6 +591,7 @@ in the Eighth month, 1794, aged sixty-eight years;
 a minister forty-six years.-- See Memoirs of her Life.
 London, 1797.]
 
+[.signed-section-context-open]
 Warrington, Third month, 1751.
 
 I received thy brother's letter,
@@ -576,13 +628,18 @@ seek after the enlargement of it, by waiting for daily sustenance from it;
 and the God of my life keep us both chaste in our minds to him whose we are,
 and ought to serve with the spirit of our minds.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Brother John.
 
+[.signed-section-context-open]
 Warrington, Seventh month 14th, 1751.
 
 Yesterday I attended the funeral of Peter Leadbeater, of Chester, who,
@@ -603,14 +660,19 @@ Nothing ought to be allowed in us that leads to
 forget that hand that is filled with blessings,
 ready to dispense them, but expects grateful returns.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Sarah Brown.^
 footnote:[Daughter of William Brown, from America.]
 
+[.signed-section-context-open]
 Warrington, First month 20th, 1752.
 
 I doubt not but the same conveyance that brings this,
@@ -666,13 +728,18 @@ and follow on to know his requirings, with full purpose of heart to be faithful 
 and no weapon formed against thee will prosper,
 nor any place be allotted so low in which the omnipotent arm will not sustain.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Warrington, Fourth month 20th, 1752.
 
 I often make myself a party in idea in your converse,
@@ -699,13 +766,18 @@ and shall the tender plant repine at being shaken by the wind?
 The faithfulness of unchangeable help is such, as to render us safe in his protection,
 while we seek to abide in it.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 Warrington, 1752.
 
 I have by no means forgotten thee;
@@ -737,11 +809,15 @@ I salute thee and Mary Peisley, when thou sees her, most affectionately,
 and am thy friend and companion in the tribulations, and may God grant it,
 the patience of the gospel.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Churchman^
 footnote:[John Churchman, of East Nottingham, in Pennsylvania,
 a Friend well known by the published account of his life and gospel labours.
@@ -752,6 +828,7 @@ He died on the 24th of seventh month, 1775, aged near seventy,
 a minister about forty-two years.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Moate, Eighth month 13th, 1752.
 
 When, by the secret touches of truth, we are made to feel and know each other,
@@ -835,11 +912,15 @@ the beseeming gesture, with which Truth arrays her votaries,
 far surpassing all our modern polite and worldly genteel airs.
 With the salutation of love, thy real friend.
 
+[.signed-section-signature]
 John Churchman.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Kendall^
 footnote:[The Friends who were accompanied by John Kendall, during this visit to Holland,
 were William Brown and Samuel Neale.
@@ -851,6 +932,7 @@ He died at Colchester in 1815, at the advanced age of eighty-nine years,
 a minister about sixty-seven years.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Colchester, Eighth month 17th, 1752.
 
 I am but just returned from my journey in Holland and Germany, and may acquaint thee,
@@ -871,13 +953,19 @@ Our hearts were enlarged in great love at times,
 and a concern begotten for the growth of the true seed, and for the right birth,
 wherein we laboured according to the ability received,
 and have found the answer of peace, which abundantly repays.
+
+[.signed-section-signature]
 John Kendall.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 Warrington, 1753.
 
 Thine of the 14th, I this morning received, and hasten to tell thee,
@@ -922,13 +1010,18 @@ which reaches freely forth to all the servants of Christ, as a divine odour,
 for which the true virgins love him:
 from thy friend and brother in the labour and suffering of and for the gospel,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Churchman to Samuel Fothergill.
 
+[.signed-section-context-open]
 Woodhouse, Third month 17th, 1753.
 
 It was very reviving to me to receive those few lines from thee,
@@ -950,11 +1043,15 @@ for an intimate, in a moving jail,
 to which I must be committed before I can be proclaimed free in my native air,
 affords a contemplative delight not easy to express.
 
+[.signed-section-signature]
 John Churchman.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Samuel Watson, on the death of his wife.^
 footnote:[Samuel Watson, of Kilconner, in the county of Carlow,
 "`succeeded his ancient and honourable father, John Watson, of the same place,
@@ -980,6 +1077,7 @@ was an eminent and experienced minister: she travelled much in the service of tr
 having visited England five times, and the provinces of North America once.
 Site died eleventh month 11th, 1752, aged sixty-eight, a minister forty years.]
 
+[.signed-section-context-open]
 Warrington, Seventh month 7th, 1753.
 
 I affectionately salute thee in the fresh renewings of
@@ -1016,13 +1114,18 @@ thou wilt remember him with affection and profit.
 Accept, my dear friend, the salutation of endeared love,
 from thy sincere friend and brother in the labour and service of the blessed household,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Peter Buck, of Netherdale.
 
+[.signed-section-context-open]
 Skipton, Eighth month 9th, 1753.
 
 The alliance between our families, our former acquaintance, and to renew it afresh,
@@ -1031,11 +1134,11 @@ and I found in my mind a salutation of good will to spread towards thee for thy 
 It hath pleased Divine Providence to afford thee several favours of great importance; as,
 being sprung from virtuous, religious parents,
 who were good examples in their generation, amongst men and before their children;
-they loved Friends, and were beloved of them; and, through the blessiug of Providence,
+they loved Friends, and were beloved of them; and, through the blessing of Providence,
 they have left thee in affluent, easy circumstances,
 and possessed of a large share--in comparison
 with many--of the good things of this world;
-also, what in finitely exceeds all the riches of this transi tory world,
+also, what in finitely exceeds all the riches of this transitory world,
 the secret visitation of Divine light and love,
 to redeem and preserve thee from corruption, and to give thee a name amongst the living,
 a blessed memorial in the Jerusalem of God.
@@ -1108,13 +1211,18 @@ where the ark rested, may perpetuate his blessings to thee and thine.
 This is the petition and request of my soul for thee,
 who am thy affectionate kinsman and sincere well-wisher,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Churchman to Samuel Fothergill.
 
+[.signed-section-context-open]
 Norwich, Ninth month 7th, 1753.
 
 I wish to inform thee that I have performed my journey in Holland,
@@ -1193,13 +1301,18 @@ We took shipping at Rotterdam on the 29th of last month,
 and landed safely in England on the 3rd instant,
 having been long detained in the harbour.
 
+[.signed-section-signature]
 John Churchman.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 Warrington, Tenth month, 1753.
 
 I have received a hint which has done me some service,
@@ -1230,13 +1343,18 @@ But the virtue of the heavenly name spread, and, I believe,
 led several of us into a place, alas! little frequented by many,
 but known to some by the name of the valley of decision.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Warrington, Eleventh month 5th, 1753.
 
 I have some reason to apprehend I must get away to America some part of next summer.
@@ -1269,17 +1387,22 @@ and eminently so when the great Father of all consolation is
 pleased to overshadow with his healing wing.
 This was not far from me in my late little journey,
 though in much pain for the testimony's sake, yet supported to labour,
-so as to have peace ot mind, and that is indeed enough.
+so as to have peace of mind, and that is indeed enough.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Bragg.^
 footnote:[John Bragg lived at Whitehaven, and died there very generally beloved,
 in Fifth month, 1795, aged 72.]
 
+[.signed-section-context-open]
 Warrington, First month 21st, 1754.
 
 I received, about twelve days ago, an anonymous letter, requesting my return thereto,
@@ -1326,11 +1449,15 @@ The Lord of all mercy and strength renew effectually his visitation to thy soul,
 and build thee upon the sure foundation that can never be shaken.
 I am thy true friend and well-wisher,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Brown^
 footnote:[William Brown came over from America with John Churchman on a religious visit,
 and returned soon after this letter was written:
@@ -1339,6 +1466,7 @@ he being made helpful to Friends of that county,
 who were at that time in some difficulty.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Third month 16th, 1754.
 
 Having visited meetings in and about London, my way opened to visit Sussex,
@@ -1363,16 +1491,21 @@ as I have been favoured with such healing balsam that has bravely healed my sore
 and since I came out of Wales,
 I have had as close and heavy work as in any part of my religious labours.
 
+[.signed-section-signature]
 William Brown.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Ann Appleby.^
 footnote:[Ann Appleby, previously Ann Ford, of Leek,
 was at this time the widow of Joshua Appleby, who died in the county of Durham,
 Third month 16th, 1754, aged 26.]
 
+[.signed-section-context-open]
 Warrington, Fourth month, 1754.
 
 In my journey into Yorkshire, whence I returned a few days ago,
@@ -1437,13 +1570,18 @@ My wife joins me in tender sympathy with thee,
 and our prayers are for thy preservation and Divine help.
 Thy real friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Ann Fothergill to her Brother Samuel.
 
+[.signed-section-context-open]
 London, Seventh month 23rd, 1754.
 
 William Brown, accompanied by Joshua Dixon, has sailed for America.
@@ -1480,5 +1618,7 @@ who desires us to give thee the speediest notice
 that he thinks of going with Captain Mesnard,
 who is to sail on the first of next month.
 
+[.signed-section-signature]
 Ann Fothergill.
 
+--

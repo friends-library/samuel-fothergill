@@ -6,8 +6,13 @@ her infirmities increased, and she did not long survive him.
 She received the tender care of kind relations, and much sympathy from her friends,
 on the loss of such a valuable companion.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Israel Pemberton to Susanna Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 10th, 1772.
 
 My mind being engaged in near sympathy with thee,
@@ -38,7 +43,10 @@ Many Friends were lately at our yearly meeting,
 by whom thou wast remembered with much affection,
 and united desires for thy preservation to the end in faith and patience.
 
+[.signed-section-signature]
 Israel Pemberton.
+
+--
 
 Her health and strength continued to decline, and after a few weeks of lingering illness,
 she departed this life at Warrington, on the 8th of the fifth month, 1773,
@@ -54,7 +62,7 @@ which had been her companion in the more active part of her life; laying down he
 we doubt not, under the effects of that animating welcome sentence --"`Well done,
 thou good and faithful servant, enter thou into the joy of thy Lord.`"
 
-[.asterism]
+[.small-break]
 '''
 
 The few remaining years of the life of Dr. Fothergill were passed,
@@ -75,6 +83,12 @@ and these visits rendered him more sensible of his loss,
 and of the chasm which that event had made.
 In 1772 he thus writes from Lea Hall:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Dr. Fothergill to Dr. Lettsom.
+
 "`I have been obliged to write many letters, which I am at present very unfit for,
 or for any thing else; but I will not spend all in unavailing complaints.
 I meet with many things to put me in mind how much I have lost,
@@ -85,7 +99,8 @@ counsel, and sympathy relieved every anxiety, gave taste to every enjoyment;
 but I will try to banish everything but a wish
 to follow him through the remains of this life,
 with submission to every difficulty, and gratitude for many blessings.`"
-(Letter to Dr. Lettsom.)
+
+--
 
 In addition to his retreat at Lea Hall, Dr. Fothergill possessed,
 in his estate and gardens at Upton,
@@ -117,7 +132,7 @@ etc., introduced by his means into this country, and the Bread-fruit, Mangosteen
 into the West India Islands.
 For each of these, and many others, he had fixed a proper premium.
 In conjunction with the Earl of Tankerville, Dr. Pitcairn, and myself,
-he sent over a person to Africa, for the purpose of collecting plants and specimens.
+he sent over a person to Africa, for the purpose of collecting plants and specimens.`"
 
 "`In my opinion, no other garden in Europe, either royal, or belonging to a subject,
 had nearly so many scarce and valuable plants.
@@ -183,11 +198,15 @@ increased with his increasing years; he had its prosperity much at heart.
 In the year 1776, he was nominated one of a committee, appointed by the yearly meeting,
 to make a general visit to the meetings throughout the nation.
 
-On this occasion he wrote the following letter--"`To
-the Friends nominated at the late yearly meeting,
-to visit the quarterly and monthly meetings, etc.,
-and to the members of our Society in general:`"
+On this occasion he wrote the following letter:
 
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== To the Friends nominated at the late yearly meeting, to visit the quarterly and monthly meetings, etc., and to the members of our Society in general:
+
+[.salutation]
 Dear Friends,
 
 Having been nominated on this service, I accepted of it with reluctance,
@@ -266,16 +285,28 @@ as a testimony of my full unity with the proposition,
 and my desire that it may be rendered effectual to the help of many,
 and the general edification of the churches.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 He united with a part of the committee in visiting the
 meetings of Friends in Lancashire and Yorkshire,
 his sister accompanying him in the latter.
 In a subsequent letter, he thus speaks of the visit,
 in terms more suited to the well known diffidence of his character,
-than to the part which he took in the service: --
+than to the part which he took in the service:
 
-"`It was with much reluctance that I consented to be named on
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Dr. Fothergill to Sarah Bird
+
+[.signed-section-context-open]
+Tenth month 17th, 1776
+
+It was with much reluctance that I consented to be named on
 such a service as that in which we took a small part,
 I hope to our own help at least;
 and if we either tended to hold up the hands of those who were qualified for the service,
@@ -285,13 +316,14 @@ and many testimonies given of its utility.
 I cannot forbear thinking, that times of distress are gradually, imperceptibly advancing;
 the season may not be in my time, but I wish to be prepared for it if it should.
 
-"`To my nephew and his family say,
+To my nephew and his family say,
 that if they look back frequently to the worthy parts of their ancestry,
 with a wish to follow their footsteps, they will be the better for it.
 To all the progeny of our worthy father is the gracious regard of heaven extended,
 and we ought to be abundantly thankful that so many are preserved from the
-spots and stains of this life.`"-- (Dr. Fothergill to Sarah Bird,
-Tenth month nth, 1776.)
+spots and stains of this life.
+
+--
 
 Amongst the many distinguished men who, from similarity of pursuits.
 Dr. Fothergill ranked amongst his intimate friends, was John Howard.
@@ -355,7 +387,6 @@ To this desire on the part of Dr. Fothergill,
 the Society owes its valuable institution at Ackworth.
 The circumstances which led to the establishment
 of that school are thus related by Dr. Hird:
---
 
 "`On his return from Cheshire, in the year 1777,
 he did me the favour of being my guest for a few days.
@@ -367,7 +398,7 @@ and how far it might serve as a model for a larger undertaking.
 The present state of the Foundling Hospital at Ackworth, was also mentioned;
 erected at a vast expense, it was then in danger of dilapidation,
 and ready for public sale.
-This struck him forcibly--' Why may not this,' said he,
+This struck him forcibly--'Why may not this,' said he,
 'serve the very purpose I am in pursuit of?'
 The building, with an estate of eighty acres of land, was purchased, improved,
 and furnished by subscription.
@@ -424,8 +455,13 @@ In a few weeks the complaint abated, and he was again able to see his friends:
 and forced by the importunities of those who sought relief from his medical skill,
 he again resumed the duties of his arduous and active life.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Dr. Fothergill to Catharine (Payton) Phillips.
 
+[.signed-section-context-open]
 London, Twelfth month 5th, 1778.
 
 Thy very affectionate letter to my sister,
@@ -475,7 +511,10 @@ Thus, my dear friend, I have endeavoured to give thee a just state of our condit
 We know thy present desires for our good,
 and may they be still continued when access is granted.
 
+[.signed-section-signature]
 John & Ann Fothergill.
+
+--
 
 Some time after his recovery from this illness, he visited Ackworth School,
 to endeavour to perfect his plan, and to perpetuate its advantages.
@@ -586,8 +625,11 @@ which preserved her in a tender and innocent state to the latest period of a lon
 She died at her house in Great Russel street, on the 8th of seventh month, 1802,
 aged eighty-four years, and was interred at Winchmore-hill.
 
+[quote.scripture, , Psa. 37:39-40]
+____
 The salvation of the righteous is of the Lord:
 He is their strength in the time of trouble.
-
-The Lord shall help them, and deliver them, and save them, because they trust in him;
+The Lord shall help them, and deliver them, and save them,
+because they trust in him;...
 and their inheritance shall be for ever.
+____

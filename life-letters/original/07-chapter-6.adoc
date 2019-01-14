@@ -10,8 +10,13 @@ and in the autumn he visited some parts of Lancashire and Cumberland;
 soon afterwards he had a certificate to pay a visit to some of the southern counties,
 and to the city of London, and spent the winter in this engagement.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Carlisle, Sixth month 5th, 1741.
 
 I am preserved in a good state of health, through hard labour,
@@ -29,6 +34,8 @@ and longs for our preservation in all lowliness and humility.
 I would fain return, with the sheaves of peace in my bosom,
 and fully clear myself before I return, which will be longer than I expected.
 
+--
+
 In 1742 he was engaged with some other Friends, by appointment of the monthly meeting,
 in a religious visit to the families of Friends within that meeting.
 
@@ -44,11 +51,13 @@ one of them appears to be an answer to some individual
 who had applied to him for spiritual counsel;
 the applications of this nature which he received were frequent.
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Dublin, Second month 27th, 1744.
 
 On my arrival I came up to this city about eight, and went to meeting at ten;
@@ -87,13 +96,18 @@ Very great is the danger of that highly-called youth.
 The meetings, during the course of this national meeting,
 have been attended with the evidence of Divine favour.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
-Samuel Fothergill to +++_____+++.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Samuel Fothergill to +++_______+++.
+
+[.signed-section-context-open]
 Dublin, Second month, 1744.
 
 If this letter should come to the hand of the person from whom I received one last night,
@@ -168,13 +182,18 @@ wait for the manifestation and production of a holy birth in thy soul.
 Thus having offered, in an abrupt manner, what seemed on my mind for thee, I remain,
 in the sincerest manner, thy affectionate, sympathizing, and concerned friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Lisburn, Third month 9th, 1744.
 
 The day on which I wrote my last to thee, was held the concluding meeting at Dublin,
@@ -213,13 +232,18 @@ and proposes to accompany me through the greatest part of the nation,
 which will be acceptable to me; he was over with Michael Lightfoot; his name,
 Robert Richardson.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Charlemont, Third month 18th, 1744.
 
 My present business is to look to my concern here,
@@ -259,13 +283,18 @@ My heart is renewedly touched with the love of God; in that I am bound up with t
 and near thee, in an indissoluble covenant; may our dwelling be evermore in it,
 so shall we be helps one to another.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Limerick, Fourth month 5th, 1744.
 
 On seventh-day, the 19th ult., the Province meeting began at Ballyhagen;
@@ -306,13 +335,18 @@ to acknowledge gratefully the favour of Heaven,
 and to consecrate the gain of all to the Lord.
 May reverence and fear possess my soul for ever!
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to his Sister.
 
+[.signed-section-context-open]
 London, Eighth month 11th, 1744.
 
 A considerable number of engagements have so taken up my time,
@@ -342,7 +376,10 @@ It is seldom, alas! too seldom,
 that the hurry and cares of this life permit me to practise what I here recommend,
 with the ardour I could wish.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 The period was now approaching when John Fothergill,
 having laboured faithfully and diligently in the service of his Lord and Master,
@@ -400,6 +437,10 @@ to such a degree as to return in holy quiet; and adds, "`I ask no questions fart
 but to be helped to live to the ever living Being,
 the little time he may suffer me to continue on this side the grave.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son John.
 
 As I have no dependance on human assistance but from thee,
@@ -413,7 +454,10 @@ living goodness from the almighty Helper of his people,
 who have trusted in him, and feared him.
 Thus, dear son, farewell, farewell, saith thy affectionate father,
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 "`With these affecting expressions,`" says Doctor Fothergill,
 "`ended a correspondence which afforded the strongest
@@ -454,8 +498,13 @@ and using the things of this life with moderation.
 
 Several of the following letters have reference to the event of John Fothergill's decease.
 
-Alexander Fothergill to T+++_____+++ L+++_____+++.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Alexander Fothergill to T+++_______+++ L+++_______+++.
+
+[.signed-section-context-open]
 Carr-End, Eleventh month, 1744.
 
 I have for some time had a desire to give thee an account of the decease of thy friend,
@@ -494,11 +543,15 @@ he was content, having so laboured in the day that he was prepared for the eveni
 and if he should recover again,
 it would be no further pleasant to him than that he could be serviceable to truth.
 
+[.signed-section-signature]
 Alexander Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 May Drummond^
 footnote:[May Drummond was of a considerable family in North Britain;
 she was convinced of the truth of Friends' principles at Edinburgh,
@@ -526,6 +579,7 @@ She died at Edinburgh about the year 1772; but, during the latter years of her l
 was not held in the same estimation that she had formerly been.]
 to Samuel and Susanna Fothergill, on the death of their Father.
 
+[.signed-section-context-open]
 Bristol, Eleventh month, 1744.
 
 Two days ago the unacceptable tidings of your worthy father's death reached me.
@@ -549,13 +603,18 @@ and all his offspring in so hopeful a way,
 that I make no doubt of his saying with good old Simeon, "`Lord,
 now lettest thou thy servant depart in peace; for mine eyes have seen thy salvation.`"
 
+[.signed-section-signature]
 May Drummond.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to his Sister.
 
+[.signed-section-context-open]
 London, Twelfth month 2nd, 1744-5.
 
 I can say nothing to thee upon the present distressing
@@ -585,13 +644,18 @@ I find brother has collected most of his papers; the rest I shall be glad to hav
 in order that, from those I have in my hands, and the rest,
 I may be able to finish that account which dear father had begun, partly at my request.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Warrington, Twelfth month 2nd, 1744-5.
 
 As the common centre of our love is now, alas! removed,
@@ -613,5 +677,7 @@ are not a dishonour to the cause of truth our father promoted,
 and that are pleased to have such a relation,
 and would give all the evidence they could of it.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
+--

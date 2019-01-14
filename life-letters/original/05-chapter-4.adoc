@@ -10,8 +10,13 @@ it filled his heart with gratitude and thankfulness for this his erring son;
 yet hope was mingled with fear, and he rejoiced with trembling,
 as some of the following letters indicate.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to +++______+++.
 
+[.signed-section-context-open]
 (No date.)
 
 As to son Samuel, I have been almost unexpectedly quiet in my spirit about him, knowing,
@@ -40,16 +45,23 @@ Amen, Amen.
 I am, in love and care, beyond what I can express, poor son Samuel,
 thy nearly well-wishing father,
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son Joseph.
 
+[.signed-section-context-open]
 Philadelphia, Ninth month 12th, 1737.
 
+[.salutation]
 My beloved son Joseph,
+
 I am desirous to manifest my regardful remembrance of
 thee and thy dear wife by a few lines once more,
 wherewith reacheth near and true love, and strong well-wishing in every respect,
@@ -96,13 +108,18 @@ which brings to a careful desire after pure stillness in waiting,
 and so to heavenly salvation, and clear understanding of the Divine goings forth;
 and I hope all-sufficient help will be with you all; so be it, Amen.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to +++______+++.
 
+[.signed-section-context-open]
 Philadelphia, 1737.
 
 Let my heretofore strongly pressed caution,
@@ -124,7 +141,10 @@ but my love and true care is a just excuse for me herein.
 May the love of righteousness and best riches win and guide thy heart and views,
 and the God of all goodness will be thy God and sure helper to blessedness indeed.
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 This visit to America occupied John Fothergill nearly two years.
 In the course of it he attended several of the yearly meetings,
@@ -138,8 +158,13 @@ who had the glory and the praise.`"
 "`On the 24th the yearly meeting began at Nantucket, it was large,
 and continued four days, to true satisfaction, and the name of the Lord was glorified.`"
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Fothergill to his Son John.
 
+[.signed-section-context-open]
 Philadelphia, Seventh month, 1737.
 
 "`As to myself, I am somewhat miraculously supported, as a creature,
@@ -158,12 +183,15 @@ Thus farewell, farewell, saith thy nearly affectionate father,
 to the best of my capacity, in every respect,
 which I hope thou art and often will be sensible of.`"
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 Of the conclusion of his labour in America he has left the
 following account:--"`I had a blessed meeting with Friends,
 at Pilesgrove, and the next day was at a general meeting at Haddonfield,
-wherein the Lord our God graciously owned uSj and blessed our meeting;
+wherein the Lord our God graciously owned us and blessed our meeting;
 giving us to part one from another in a living sense of his love and power;
 and his glorious name was worshipped and praised.
 I came the day following to Philadelphia,
@@ -175,6 +203,10 @@ in much true love and nearness of spirit, and heavenly unity in the Lord.`"
 Soon after this he took passage to Barbadoes,
 and from that island he wrote to one of his sons, as follows: --
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Barbadoes, Eleventh month 27th, 1738.
 
 "`I was brought hither well, in thirty-two days from Philadelphia,
@@ -192,11 +224,15 @@ and of fatherly succouring encouragement to the few spiritually minded here.
 May rain from heaven bedew thy soul and understanding,
 and cherish and revive the Lord's heritage everywhere.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Barbadoes, Second month 12th, 1738.
 
 "`In the long absence which wisdom hath seen good to order, I am, for that reason,
@@ -211,7 +247,10 @@ and the few Friends here, are very loving and respectful;
 and I hope I shall leave the place with inward ease to myself and reputation to truth.
 From thy truly loving father,
 
+[.signed-section-signature]
 John Fothergill.
+
+--
 
 Having been engaged in the island of Barbadoes for about three months,
 he embarked in a vessel bound for Lancaster,
@@ -226,4 +265,3 @@ From Lancaster he proceeded direct to his own habitation in Netherdale, Yorkshir
 where he was joyfully received by his family and friends,
 with humble gratitude and reverence to that Divine power which had, through all,
 preserved and restored him to his native land.
-

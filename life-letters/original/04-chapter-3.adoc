@@ -66,7 +66,7 @@ Samuel Fothergill, the sixth son of John and Margaret Fothergill, was born at Ca
 on the 9th of ninth month, 1715, O. S. He was very little more than three years old,
 when the death of his mother deprived him of her tender care.
 Of his early youth but little is now known.
-Fie and his brother John were at school together at Briggflats, near Sedbergh;
+He and his brother John were at school together at Briggflats, near Sedbergh;
 and he also passed some time at Sutton, in Cheshire, the residence of his maternal uncle,
 Thomas Hough, to whom, with others of his relations and friends,
 John Fothergill committed the care of his children, during his second visit to America,
@@ -205,8 +205,13 @@ as he advanced in his spiritual path, he often took sweet counsel.
 Some of his feelings under the change which had been wrought in him
 were communicated to his friends in the following letter.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to The Monthly Meeting
 
+[.salutation]
 Dear friends,
 
 It hath lain heavy upon me for some time to write a few
@@ -279,11 +284,15 @@ though beset with many temptations on every hand.
 The Lord in mercy be near you, saith my soul.
 Farewell.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Longmire^
 footnote:[The letters of William Longmire are dated at Kendal,
 but I believe he afterwards lived at Sheepscar, near Leeds, and died there, first month,
@@ -291,6 +300,7 @@ but I believe he afterwards lived at Sheepscar, near Leeds, and died there, firs
 G+++.+++ C.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Kendal, 1736.
 
 Thy very acceptable letter came safe to hand,
@@ -346,15 +356,22 @@ let the first of these before named virtues have her perfect work.
 
 Dear friend, I heartily wish thy preservation and prosperity in the blessed truth,
 a joy to thy parent, a comfort to thy brothers, and a blessing to society.
-I am, dear Samuel, Thy sincerely affectionate friend,
 
+[.signed-section-closing]
+I am, dear Samuel, thy sincerely affectionate friend,
+
+[.signed-section-signature]
 William Longmire.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to Susanna Croudson.
 
+[.signed-section-context-open]
 London, Twelfth month, 1736.
 
 I find by experience, that town or country is alike to me;
@@ -370,16 +387,21 @@ that we may be environed and folded with Divine love.
 
 Dear friend, remember that whatever can stir up the pure mind in us will be of advantage.
 
+[.signed-section-signature]
 John Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Routh.^
 footnote:[John Routh resided at Manchester; he was an elder,
 and for many years an active and useful member of society.
 He died first month 31st, 1791, aged seventy-six.]
 
+[.signed-section-context-open]
 11th of Twelfth month, 1736-7.
 
 I write to thee as to one who art regarded by the Almighty, and who hast,
@@ -399,13 +421,18 @@ But the Lord, who has done wonderful things for my deliverance,
 has mercifully regarded and reached unto me,
 while in a state of open defiance to his tenderly striving spirit.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Warrington, Second month 9th, 1737.
 
 I could have been glad to have written a few lines to thee,
@@ -481,11 +508,15 @@ I cannot sufficiently admire it, nor too often repeat it,
 for I am as a monument of that mercy that would have none lost,
 but that all should come to the saving knowledge of himself.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Alice Routh^
 footnote:[Alice Routh was born at Hawes, in 1704;
 she early received a gift in the ministry, in which she continued during a long life,
@@ -493,6 +524,7 @@ and died at Hawes, in the fifth month, 1791, aged eighty-seven.
 A minister more than sixty years.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Hawes, Third month 1st, 1737.
 
 It was not because I feared thy not holding out to the end, made me write as I did,
@@ -519,18 +551,25 @@ it is in order to try our love to him, and to see whether we love him above all 
 for he will not admit of any rivals, but will have the whole heart or none.
 So unto the Lord do I commend thee, together with my own soul,
 who is the sure rock to flee unto.
+
+[.signed-section-closing]
 I remain thy sincere friend,
 
+[.signed-section-signature]
 Alice Routh.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Routh to Samuel Fothergill.
 
+[.signed-section-context-open]
 Manchester, Second month 12th, 1737.
 
-And, as the operation of the power of truth is given way unto in our hearts,
++++.+++.+++.+++And, as the operation of the power of truth is given way unto in our hearts,
 it will work out every thing that is of a contrary nature;
 that so we may become fit tabernacles for him, the Holy One, to dwell in, which,
 that it may be our chiefest care to press after,
@@ -553,13 +592,18 @@ and as we keep here,
 I am not without hope that he who was appointed to open the prison doors,
 will in time set us at liberty to serve him in an acceptable manner.
 
+[.signed-section-signature]
 John Routh.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Joseph Brown.
 
+[.signed-section-context-open]
 Warrington, Third month 9th, 1737.
 
 With renewed satisfaction do I now salute thee,
@@ -618,16 +662,21 @@ Then shall we be often engaged to seek him, and in private to retire before him,
 the chief Beloved of our souls.
 He will appear in these private opportunities,
 to our abundant consolation and help over our enemies; which,
-thai it may be more and more our concern,
+that it may be more and more our concern,
 is the desire of thy real friend in the unchangeable truth.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Routh to Samuel Fothergill.
 
+[.signed-section-context-open]
 Manchester, Third month 15th, 1737.
 
 I join with thee in real belief that we shall be
@@ -656,13 +705,18 @@ and that our pursuit after the necessaries of this life may be bounded by his wi
 which, as we have an eye unto,
 I do not doubt that we shall be favoured with all that is necessary for food and raiment.
 
+[.signed-section-signature]
 John Routh.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Alice Routh to Samuel Fothergill.
 
+[.signed-section-context-open]
 Hawes, Fourth month 8th, 1737.
 
 I would not have thee discouraged by thinking that thou art out of thy place;
@@ -677,16 +731,24 @@ although we be tempted and tried with deep poverty; it was the lot of our dear R
 but he overcame the enemy, and as we follow him we shall be made to overcome,
 in his due and appointed time.
 
+[.signed-section-signature]
 Alice Routh.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Longmire to Samuel Fothergill.
 
+[.signed-section-context-open]
 Kendal, Fifth month 25th, 1737.
 
-Dear Samuel, I hope that good hand and power that visited thee,
+[.salutation]
+Dear Samuel,
+
+I hope that good hand and power that visited thee,
 and made thee sensible of his will, and of the unfitness of thy own,
 and gave thee power in degree to deny the one and obey the other,
 to thy great and unspeakable joy,
@@ -706,15 +768,20 @@ be very apt to suffer loss, and abundantly weaken our own hands,
 and give ourselves up into the power of the enemy.
 But, dear Samuel, be thou strong in the Lord, and in the power of his might,
 and he will strengthen thee yet more, and increase thy joy,
-and confirm and stablish thee in his truth.
+and confirm and establish thee in his truth.
 
+[.signed-section-signature]
 William Longmire.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Joseph Brown to Samuel Fothergill.
 
+[.signed-section-context-open]
 Broxbourne, Sixth month 17th, 1737.
 
 I am sensible that there is nothing that unites and brings so
@@ -759,19 +826,25 @@ and though there may be those that despise,
 yet the justness of their cause shall answer for them,
 like poor David in innocency saying,--"`Is there not a cause?`"
 
+[.signed-section-signature]
 Joseph Brown.^
 footnote:[Joseph Brown died near Hertford, eighth month 20th, 1748, aged forty-two.]
 
+[.postscript]
 P+++.+++ S.--I often see thy brother John, and his company is very acceptable to me; his sweet,
 innocent carriage and deportment are exemplary to the
 youth of that great city where his lot is now cast;
 I desire that many may follow his example.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Warrington, Sixth month 8th, 1737.
 
 The day after I received thine I was visited with the rheumatism,
@@ -799,13 +872,18 @@ and raises strong cries that I may be helped to
 walk in the way that is well pleasing to him,
 in true thankfulness of heart.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Doctor Fothergill to Samuel Fothergill.
 
+[.signed-section-context-open]
 London, Seventh month 7th, 1737.
 
 The few lines which thou sent me were very acceptable,
@@ -847,11 +925,15 @@ knowledge of the languages and the mathematics,
 the product of uncommon industry and application; his appearance is rustic,
 but weighty and solid.
 
+[.signed-section-signature]
 John Fothergill
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Sarah Routh^
 footnote:[Sarah Routh, afterwards Sarah Taylor,
 was an eminent and deeply exercised minister.
@@ -859,6 +941,7 @@ She died at Manchester, eighth month 19th, 1791, aged seventy-four,
 a minister fifty-four years.]
 to Samuel Fothergill.
 
+[.signed-section-context-open]
 Manchester, Eleventh month 15th, 1737.
 
 Thy very acceptable letter was a joy and a help to me,
@@ -894,14 +977,19 @@ and that because he lives we live also; that we may know him in us and we in him
 our life being bound up and bid with Christ in God;
 this is the very travail of thy real friend and relation,
 
+[.signed-section-signature]
 Sarah Routh.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
-Warrington, Twelfth month, 16th, 1737--8.
+[.signed-section-context-open]
+Warrington, Twelfth month, 16th, 1737-8.
 
 We lately were favoured with a letter from dear father, dated Philadelphia,
 which was beyond expression acceptable,
@@ -922,13 +1010,18 @@ the same power to preserve and uphold us in well doing,
 and a steady perseverance to the end, which my soul longs may be our chief care,
 since it must be the end which crowns all, and the Lord alone is able to preserve it.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Alice Routh to Samuel Fothergill.
 
+[.signed-section-context-open]
 Hawes, Second month 24th, 1738.
 
 Do not think that thou art either forgotten of God or of thy friends,
@@ -950,7 +1043,10 @@ for she thought of eating it and dying.
 I would not have thee be discouraged, though it may be a low time with thee;
 that little will keep alive, until the pure rain be distilled again.
 
+[.signed-section-closing]
 So in that pure love that I feel to flow to thee, I bid thee farewell.
 
+[.signed-section-signature]
 Alice Routh.
 
+--

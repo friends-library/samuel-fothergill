@@ -77,8 +77,13 @@ as a "`favored meeting`"--"`meeting large and well`"--"`a low time,`" etc.
 His feelings, and the various exercises of his mind, his progress and travels,
 are much developed in the correspondence which follows.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to His Brother and Sister.
 
+[.signed-section-context-open]
 Opposite Margate, First-day morning, Eighth month 11th, 1754.
 
 As our pilot is likely to leave us very soon,
@@ -97,13 +102,18 @@ which can never be destroyed by any commotions by sea or land.
 My near and affectionate salutation is to you both,
 and my prayers are for your preservation, as for my own.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Philadelphia, Ninth month 26th, 1754.
 
 I embrace this early opportunity of acquainting you with my safe arrival here,
@@ -131,13 +141,18 @@ and in the most affectionate nearness to you,
 with the salutation of love to all relations and friends,
 yours in the bonds of continued affection,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Philadelphia, Ninth month 30th, 1754.
 
 I earnestly crave of our heavenly Protector that
@@ -172,13 +187,18 @@ yet I have a perfect quiet and weanedness from all at home,
 which I esteem a singular mercy;
 my soul is bound to the testimony and seed of God in these parts.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 3rd, 1754.
 
 I have now to inform you my health is preserved beyond expectation, and the climate,
@@ -219,13 +239,18 @@ and I hope to be restored in the due time to the enjoyment of that
 society and company which is at this time fresh in my remembrance,
 and dear to my life.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Pemberton to Susanna Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 16th, 1754.
 
 It is in a degree of that love that makes the friends of Truth near to each other,
@@ -272,13 +297,18 @@ at times,
 I have happily experienced that the exercise of patience and
 resignation has been attended with a suitable reward.
 
+[.signed-section-signature]
 Mary Pemberton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Philadelphia, Tenth month 31st, 1754.
 
 I can at once inform you I am well, every way well;
@@ -352,13 +382,18 @@ led my pen forward towards my near and dear relations with their families,
 and I leave you to your liberty either to keep
 or spread amongst them what I have written.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Brother and Sister.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 6th, 1754.
 
 In the freshness of strong natural affection,
@@ -415,7 +450,10 @@ amongst some newly settled meetings.
 I expect to travel five hundred miles, without much turn out of a direct line.
 I salute you nearly and tenderly, and am your affectionate brother,
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 The intimate friendship and frequent correspondence
 maintained by Samuel Fothergill with Israel Pemberton,
@@ -476,7 +514,7 @@ He was extensively engaged in commerce, and in benevolent pursuits.
 He died in 1779, aged sixty-four.
 
 James, the second son, received a liberal education;
-and his parents took care early to instil into the minds of all their
+and his parents took care early to instill into the minds of all their
 children a regard and reverence for those great principles of Truth,
 by which his future life was regulated.
 His mother, Rachel Pemberton, watched the early unfoldings of his mind,
@@ -572,8 +610,13 @@ both on your account and that of our dear grand-daughter;
 but I am not solicitous about it, not very solicitous.`"
 She peacefully departed this life in the tenth month, 1778, aged seventy-four years.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Pemberton.
 
+[.signed-section-context-open]
 Opechan, Twelfth month 4th, 1754.
 
 In expectation of your dear husband's being set out to meet me, I address this to you,
@@ -600,13 +643,18 @@ as for myself, immovable perseverance, and increase in faithfulness;
 that the residue of hindering things may be fully fanned away,
 and we may come up in our lots here, and remain in glorious ones for ever.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Curles, upon James' River, in Virginia, Twelfth month 13th, 1754.
 
 In daily and affectionate remembrance, though far outwardly separated,
@@ -670,13 +718,18 @@ but by his blessed Providence make bard things easy, and enable, with patience,
 and careful diligence, to act our several parts,
 to our comfort in him and one in another.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Brother and Sister.
 
+[.signed-section-context-open]
 Curies, upon James' River, Virginia, Twelfth month 13th, 1754.
 
 I have, through the continued favor of the never-failing Fountain of all good,
@@ -756,11 +809,15 @@ without giving them satisfaction for it, and had been warned off by them,
 but disregarding it, received this severe token of Indian displeasure.
 It is remote from the settlement of Friends, and far from my route.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Tabitha Ecroyd.^
 footnote:[Tabitha Ecroyd was the daughter of Richard and Susanna Ecroyd, of Marsden,
 in Lancashire, and was born in the year 1724.
@@ -772,6 +829,7 @@ and became a diligent and faithful laborer therein.
 About two years after her marriage with Richard Marriott, of Mansfield,
 they removed to Marsden, and there she continued to reside until her death in 1786.]
 
+[.signed-section-context-open]
 Curles, upon James' River, in Virginia, Twelfth month 14th, 1754.
 
 You have for some weeks been the frequent companion of my thoughts,
@@ -854,19 +912,24 @@ holy balsam to the wounded has been near; remember it, O my soul, with trembling
 Accept, dear friend, this salutation in good part;
 it is the language of a soul solicitous in a strong, secret manner, for your welfare.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Susanna Fothergill to her Husband.
 
+[.signed-section-context-open]
 Warrington, First month 12th, 1755.
 
 It gave both me and your friends great satisfaction to
 hear of your safe arrival and good health,
 and of the regard of heavenly protection and help,
-and your evidence ot peace was more than all; indeed,
+and your evidence of peace was more than all; indeed,
 I did not doubt but Divine Providence,
 who was pleased to call you from your native land in his service, would be near to you,
 and be your support and strength in every needful time.
@@ -892,13 +955,18 @@ to know whether there be not something required, and if you find anything left s
 where you have been, it is better to return to the place and finish the work.
 I hope and believe Providence will be with you, and be your guide.
 
+[.signed-section-signature]
 Susanna Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Charleston, South Carolina, Second month 13th, 1755.
 
 Since I came from Wain-oak,
@@ -971,19 +1039,23 @@ and hope for some little reviving of secret care in particular; but alas,
 many seem awakened for a time, and sink afresh into lukewarmness.
 
 Second-day morning, Second month, 17th.
-
 Yesterday is comfortably passed over; the Baptist meeting-house was lent to us,
 and we had a large, crowded meeting, to memorable satisfaction,
 the ancient Helper vouchsafing to appear as mouth and wisdom:
 to him be all glory ascribed.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Charleston, Second month 26th, 1755.
 
 I wrote to you from this place about twelve days ago, since which I have been in Georgia,
@@ -1003,13 +1075,18 @@ being almost covered with myrtle, laurel, and bay trees,
 which makes me often forget the time of the year;
 none of the symptoms of our winters are here to be seen.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Peisley to Samuel Fothergill.
 
+[.signed-section-context-open]
 Wrightstown, (in America,) Second month 27th, 1755.
 
 The freedom and candour of your very acceptable favor,
@@ -1042,13 +1119,18 @@ in a spiritual as well as a natural sense;
 nor have I ever had such near fellowship with the martyrs, apostles,
 and fellow-sufferers of Christ, as in this state.
 
+[.signed-section-signature]
 Mary Peisley.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Catharine Payton.
 
+[.signed-section-context-open]
 East Nottingham, Fourth month 10th, 1755.
 
 I have often, and with true sympathy and nearness,
@@ -1111,15 +1193,22 @@ of which I have the strongest hopes.
 
 I salute you in the union of a friendship which is founded deeper than nature,
 and remains fixed beyond dissolution.
+
+[.signed-section-closing]
 Your sincere friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Philadelphia, Fourth month 15th, 1755.
 
 Through the continued protection of the God of all strength and sure mercy,
@@ -1195,13 +1284,18 @@ but being obliged to hire guides, at a very great expense,
 through the wilderness country, with various other daily expenses,
 have made it absolutely necessary to spend a deal of money.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Brother John.
 
+[.signed-section-context-open]
 Philadelphia, Fourth month 17th, 1755.
 
 Though we are outwardly far separated, yet as it is for a cause dear to us both,
@@ -1276,13 +1370,18 @@ me of time to converse with those I have a nearer regard for,
 and subjects me to more fatigue than even daily travelling,
 for then I am comfortably solitary, and often renew my strength.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Ellen Evans.
 
+[.signed-section-context-open]
 Fourth month 18th, 1765.
 
 Had opportunity allowed, I should, long before this,
@@ -1355,7 +1454,10 @@ and have had my experience enlarged in rejoicing and suffering;
 the last has been often my lot, but I dare not repine; to be what I ought is my only aim,
 and best Wisdom knows the method to make me so; in his will I humbly acquiesce.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 Ellen Evans was the wife of John Evans: he as a minister, and she in the office of elder,
 were both valuable members of the monthly meeting of Gwynedd, in Pennsylvania.
@@ -1386,11 +1488,13 @@ with which, as well as with the writings of Friends, she was thoroughly acquaint
 
 She died on the 29th of fourth month, 1765, aged eighty years.
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 New York, Fifth month 9th, 1755.
 
 I have continued cause to acknowledge the kindness of Providence,
@@ -1419,13 +1523,18 @@ have been very heavy upon me for some weeks past.
 We had a large, good meeting in this city last evening, much to my ease,
 and I am preparing to go to Long Island.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Flushing, (Long Island,) Filth month 26th, 1755.
 
 Although a constant series of employment has prevented my testifying
@@ -1451,13 +1560,18 @@ heavenly assistance has been at times helpfully near,
 to my full discharge and ease in my painful labor,
 though I believe I must traverse a second time some steps I have already trod.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Newport, Rhode Island, Sixth month 5th, 1755.
 
 I have been sustained to travel and labor with diligence,
@@ -1481,11 +1595,15 @@ I have had a large open meeting here this day, and propose,
 after attending some adjacent, to return to the yearly meeting here,
 I suppose the largest in one meeting-house in the world.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 William Logan^
 footnote:[William Logan was a man of some note in Pennsylvania;
 he was for several years a member of the Assembly of the province.
@@ -1509,6 +1627,7 @@ it has since been called.
 The Loganian Library.]
 to Susanna Fothergill.
 
+[.signed-section-context-open]
 Stenton, near Philadelphia, Sixth month 10th, 1755.
 
 My worthy friend, your good husband, with whom I have travelled thirteen weeks,
@@ -1542,13 +1661,18 @@ and zealous for restoring her primitive beauty,
 which is cause of joy to the humble in heart,
 and those that are anxious on that account.
 
+[.signed-section-signature]
 William Logan.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Doctor Fothergill.
 
+[.signed-section-context-open]
 Newport, Rhode Island, Sixth month 13th, 1755.
 
 I have continued cause of thankfulness to the Almighty hand,
@@ -1564,13 +1688,18 @@ and I believe I may take in their course most of the quarterly meetings in New E
 which I am desirous of doing, as their discipline is much neglected,
 and the revival thereof is no small part of my concern and labor.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Peisley and Catharine Payton.
 
+[.signed-section-context-open]
 Ponygansett, Sixth month 22nd, 1755.
 
 In the renewings of that hidden sympathy and nearness,
@@ -1619,13 +1748,18 @@ and may your remembrance be of me, and prayers for me,
 that my goings may be established in the precarious passage
 through the remainder of my labors in this part of the world.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Israel Pemberton.
 
+[.signed-section-context-open]
 Ponygansett, Sixth month 23rd, 1755.
 
 I have continued cause of humble thankfulness to the ever blessed Helper,
@@ -1698,15 +1832,22 @@ over all which diminishes that excellent service you might grow up in,
 for the revival and strengthening of the Lord's cause in your generation.
 
 Accept, dear friend, this salutation, the fruits of love unfeigned, in good part.
+
+[.signed-section-closing]
 From your assured friend,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Nantucket, Sixth month 27th, 1755.
 
 It is Truth which strengthens the nearest union,
@@ -1809,13 +1950,18 @@ that she may find some relief from painful distress in him.
 But if even this fail, Truth itself remains,
 the everlasting stay and unchangeable spring of comfort in all affliction.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Nantucket, Sixth month 28th, 1755.
 
 Here is a very large meeting of professors upon this island, which is,
@@ -1851,18 +1997,29 @@ and I divided it honestly between him and myself.
 My companion, Israel Pemberton's horse, I hear, died soon after we left them,
 and the departure of my poor old "`Buck`" was daily expected.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 While thus closely engaged, and deeply exercised for the cause of truth in America,
 he was not unmindful of his Friends at home,
 and from Nantucket he addressed to Friends of Penketh meeting the following epistle,
 which was publicly read there at the close of the meeting for worship.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 Epistle to Friends of Penketh Meeting.
 
+[.signed-section-context-open]
 Nantucket, Sixth month 28th, 1755.
 
-Dearly beloved Friends, In the sensible renewings of that melting, humbling love,
+[.salutation]
+Dearly beloved Friends,
+
+In the sensible renewings of that melting, humbling love,
 which has often bowed my spirit and yours in reverend, holy worship,
 when present with you, do I affectionately salute the truly living amongst you,
 as present in spirit, though, for the cause of truth,' far separated in body; yet,
@@ -2005,7 +2162,10 @@ to support you in every difficulty,
 and preserve you as a well fenced and frequently watered garden,
 is the prayer of your true friend and well-wisher,
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 During the visit of Samuel Fothergill to the island of Nantucket,
 his mind was much exercised on account of a difference which then,
@@ -2013,13 +2173,20 @@ and had for a long time previously, existed amongst some Friends there;
 this he took much pains to remove,
 and after he left them he felt engaged to address to
 the monthly meeting the following letter:
+
+[.embedded-content-document.letter]
 --
 
+[.letter-heading]
 To Friends of the Monthly Meeting of Sherborne, Nantucket.
 
+[.signed-section-context-open]
 Sandwich, Seventh month 4th, 1755.
 
-Dear Friends, I have found so much secret travail and concern of soul,
+[.salutation]
+Dear Friends,
+
+I have found so much secret travail and concern of soul,
 on the account of your present circumstances, as not to allow me with true ease of mind,
 to dismiss the Friends who have kindly accompanied us,
 without a few lines of brotherly advice and counsel.
@@ -2041,7 +2208,7 @@ once rested in a more eminent degree upon that island than at present?
 O, Friends! how has it happened?
 At whose door may it be laid?
 I fear the head has been sick,
-and fom there weakness and infirmity spread itself into the body,
+and from there weakness and infirmity spread itself into the body,
 and rendered it unfit for his descent into our assemblies, who, of old,
 required the removal of the lepers out of his camp,
 as a previous step to his abiding amongst the congregation;
@@ -2097,13 +2264,21 @@ for Zion's sake, follow after peace with God, and one with another,
 that the God of love and peace may ever be with you;
 in this peace alone stands that farewell my soul craves for you all.
 
-I am your Friend, concerned for your true help, Samuel Fothergill.
+[.signed-section-closing]
+I am your Friend, concerned for your true help,
 
-[.asterism]
-'''
+[.signed-section-signature]
+Samuel Fothergill.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 Nantucket, Seventh month, 1755.
 
 I have to acknowledge the receipt of your acceptable letter,
@@ -2131,13 +2306,19 @@ in which I labored with some seeming success.
 The meeting here has been large, and, as times go, pretty well upon the whole,
 the state of the people considered.
 There is a considerable body of Friends who are true members of the family.
+
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Boston, Seventh month 31st, 1755.
 
 I wrote you from Nantucket about five weeks ago,
@@ -2177,13 +2358,18 @@ hairs in the manner Truth itself has led,
 but I saw no other way to peace than true obedience, in which,
 though through affliction and distress, I have found heavenly regard, and I ask no more.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to His Brother and Sister.
 
+[.signed-section-context-open]
 Boston, Eighth month 1st, 1755.
 
 Since my last I have pursued my journey eighty miles eastward of this city,
@@ -2297,13 +2483,18 @@ It is said the enemies were not above three
 hundred in all--one hundred and fifty Indians,
 and as many French.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Joseph Fothergill to his Brother Samuel.
 
+[.signed-section-context-open]
 Eighth month 19th, 1755.
 
 My late indisposition confined me several months, which to me,
@@ -2334,13 +2525,18 @@ instruments in the hand of our Heavenly Father,
 in their education in his fear,
 and in training them up in the nurture and admonition of the Lord.
 
+[.signed-section-signature]
 Joseph Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Abraham Anthony and Jacob Mott, two Friends of Rhode Island.
 
+[.signed-section-context-open]
 Nine Partners, Ninth month, 1755.
 
 In the fellowship of the suffering seed amongst you, I affectionately salute you,
@@ -2382,15 +2578,21 @@ and be found fighters against God, by obstructing his work in themselves or othe
 The God of our fathers establish you more and more in his work,
 and work amongst you to his praise and your comfort.
 
+[.signed-section-closing]
 Farewell, farewell, says your true friend in that which is unchangeable,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Susanna Fothergill to her Husband.
 
+[.signed-section-context-open]
 Warrington, Ninth month 24th, 1755.
 
 My soul salutes you in near and true affection,
@@ -2425,13 +2627,18 @@ Edmund Peckover, two days.
 I parted with him at Frandley; he has labored closely amongst us,
 and has had good service; the dew of his youth still rests upon him.
 
+[.signed-section-signature]
 Susanna Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 John Churchman's, East Nottingham, Ninth month 30th, 1755.
 
 In the near and tender sense of that love which many waters cannot quench,
@@ -2470,11 +2677,16 @@ But humbly thankful I am that there is a remnant left,
 who have them placed about their robes in due number and proportion.
 Some of that happy number I find here, and too many of a different sort.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
+[.letter-heading]
 (Addition by John Churchman.)
 
-Dear friend Susanna Fothergill, Your dear husband was so good as to offer me this,
+[.salutation]
+Dear friend Susanna Fothergill,
+
+Your dear husband was so good as to offer me this,
 in order that I might have an opportunity to assure you
 that the tender regard and near unity which,
 from our first acquaintance, made near impressions reciprocally on each of our minds,
@@ -2490,13 +2702,18 @@ Perhaps these few lines, mean as they are,
 may meet with no less acceptance for being joined to the foregoing epistle.
 In much tender affection, in which my dear wife joins, I conclude, your real friend,
 
+[.signed-section-signature]
 John Churchman.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 East Nottingham, Tenth month 3rd, 1755.
 
 You are the frequent companion of my thoughts, and that with hope and desire,
@@ -2512,7 +2729,7 @@ or be rendered unworthy of the further notice and regard of a
 Being who remembers his children from generation to generation,
 and supports through all their trials, to a peaceful habitation with himself.
 
- I expect to spend this winter in these provinces:
+I expect to spend this winter in these provinces:
 not only in the continuance of bodily strength,
 but the renewal of ability to labor in the Lord's work,
 is my spirit bowed in humble worship.
@@ -2562,13 +2779,18 @@ White-hart Court^
 footnote:[Doctor Fothergill's residence.]
 was then, and oftentimes, a place I visited in mind.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Dr. Fothergill.
 
+[.signed-section-context-open]
 Maiden Creek, in Pennsylvania, Tenth month 20th, 1755.
 
 The signal proofs of Divine help which have been extended towards me and others,
@@ -2595,17 +2817,22 @@ yet there is a number of young people of the Hebrew race coming up out of their 
 and clothed upon with the vesture of righteousness and holy zeal;
 and indeed the cause has need of them.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 6th, 1755.
 
 I strongly hope He who has called to this work will support
-and enable me (o bear it with resignation and patience,
+and enable me to bear it with resignation and patience,
 and in his due time restore me to my beloved friends in my native land;
 and in the mean time will preserve us living to himself
 in the eternal covenant of light and life;
@@ -2703,13 +2930,18 @@ May all our dwelling be in that hidden root of communion from
 which all the various branches derive nourishment,
 and we shall be as epistles written on one another's hearts by the finger of God.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Chester, in Pennsylvania, Eleventh month 11th, 1755.
 
 A variety of close, painful labor hereaway,
@@ -2763,13 +2995,18 @@ My spirit is nearly united to you in that which is stronger
 than natural alliance--the hidden communion of souls,
 rectified by wisdom, and refined by the power of redemption.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Pemberton to Susanna Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 18th, 1755.
 
 I spent most of last week with your dear spouse,
@@ -2786,13 +3023,18 @@ that hearken to the clamours of the people, and are dismayed with the world's di
 Yet there are such that can, in humility and thankfulness,
 say they are favored with a quiet habitation.
 
+[.signed-section-signature]
 John Pemberton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Dr. Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 24th, 1755.
 
 Thus far peace has attended my steps; excellent glory be ascribed to its Author!
@@ -2892,13 +3134,18 @@ which either the inattention of the proprietors, or their lack of information,
 induced them to disregard; and it is pretty much on this land,
 and land fraudulently obtained, that the barbarities are committed.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to His Wife.
 
+[.signed-section-context-open]
 Philadelphia, Eleventh month 24th, 1755.
 
 I have, since my last,
@@ -2925,8 +3172,7 @@ footnote:[And a voice came out of the throne, saying, Praise our God,
 all you his servants, and you that fear him, both small and great.
 And I heard as it were the voice of a great multitude, and as the voice of many waters,
 and as the voice of mighty thunderings, saying, Alleluia;
-for the Lord God omnipotent reigns. Rev. 19:5-6.
-]
+for the Lord God omnipotent reigns. Rev. 19:5-6.]
 I mention it with reverent praise to the ever blessed Fountain of sure supply and help,
 who, and who alone, is worthy of all honor, dominion, and pre-eminence forever.
 
@@ -2951,13 +3197,18 @@ I have often remembered her for the work's sake,
 which the Lord has begun and carried on in her mind,
 and would and will perfect it as he is steadily looked to.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Lydia Lancaster to Susanna Fothergill.
 
+[.signed-section-context-open]
 Lancaster, Twelfth month 13th, 1755.
 
 Your welfare every way is the concern of my mind, now,
@@ -2983,7 +3234,10 @@ as unto a bosom friend, who is no stranger to those suffering paths,
 nor to that Hand of power which works deliverance; into which I commit you,
 with my own soul.
 
+[.signed-section-signature]
 Lydia Lancaster.
+
+--
 
 According to the eloquent testimony given forth concerning Lydia Lancaster,
 and which was written by her intimate friend, Samuel Fothergill,
@@ -3030,8 +3284,13 @@ and a minister about fifty-three years.
 As she lived, so she died, in great favor both with God and man,
 full of days and full of peace.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 17th, 1755.
 
 As the sure mercies of our Heavenly Father are new every morning,
@@ -3078,13 +3337,18 @@ and not in the character of a minister, has given me some true ease;
 and hope to be helped to such a degree of attention to the great Master's requirings,
 as to know, and by his strength perform, his will.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 17th, 1755.
 
 Oh that our residence may ever be in that house where the Feeder dwells,
@@ -3148,14 +3412,19 @@ to endeavor to awaken the people to consider their ways.
 Wise, faithful, and true is He that dwells on high,
 and will convince all people that he rules over all the children of men.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Joseph Proud.^
 footnote:[A relation, son of John Proud, of Newport.]
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 20th, 1755.
 
 I have been deeply engaged in spirit and very closely employed in labor,
@@ -3231,13 +3500,19 @@ and through his mercy you may be set as a seal on his arm.
 
 Assure yourselves of a large share of true
 regard with your affectionate friend and kinsman,
+
+[.signed-section-signature]
 Samuel Fothergill,
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Timothy Waterhouse.
 
+[.signed-section-context-open]
 Philadelphia, Twelfth month 20th, 1755.
 
 I have by no means forgotten you, your dear Hannah, and other relations.
@@ -3285,13 +3560,18 @@ But if this refining hand and chastity of mind be not rightly sought after,
 and patiently abode under, I fear your day will be overcast with clouds,
 and perhaps scarce strength left to withstand even evident pollution.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 At Joshua Pusey's, Twelfth month, 1755.
 
 It is no small favor, amongst many others, to me, in my pilgrimage through this land,
@@ -3316,13 +3596,18 @@ in exciting to diligence to be what I know you wishes for me;
 and in the progression of that regard,
 let your knife as well as your cruse of oil be upon me.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Pemberton.
 
+[.signed-section-context-open]
 Wilmington, First month 12th, 1756.
 
 You have been so much the companion of my thoughts since I saw you,
@@ -3356,13 +3641,18 @@ and comfortable hope arises in my heart, your day is near to break forth more pl
 and the cloud which may, perhaps, have been on your tabernacle, will be taken up,
 as a signal for your progress.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Israel Pemberton to Susanna Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, First month 15th, 1756.
 
 The benefit and satisfaction I have enjoyed from the
@@ -3387,13 +3677,18 @@ when his service here is over, the prospect of which does not yet seem near in v
 he will be safely restored to you, full of the most perfect tranquillity, peace,
 and true joy, to your mutual consolation.
 
+[.signed-section-signature]
 Israel Pemberton.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 East Nottingham, Pennsylvania, First month 19th, 1756.
 
 Though I have nothing to boast of, as signal fruits of my close labor, to others,
@@ -3453,13 +3748,18 @@ The winter proving favorable, thus far I have not been willing to lie by,
 but intend two days entire rest here,
 which is more than I have had at one time for some months.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Lydia Lancaster to Samuel Fothergill.
 
+[.signed-section-context-open]
 Lancaster, Second month 10th, 1756.
 
 In the pure fellowship of the gospel of peace, my soul nearly salutes you;
@@ -3535,11 +3835,15 @@ pure prayers than pen and language can set forth;
 wherein I remain your true and faithful friend, sister,
 and companion in the sufferings of Jesus, and joy of our Lord according to my measure,
 
+[.signed-section-signature]
 Lydia Lancaster.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Comfort Hoag, (afterwards Comfort Collins.)^
 footnote:[This Friend resided in New England, and attained to a great age.
 The following account of her is taken from a letter written in Eighth month, 1812,
@@ -3567,6 +3871,7 @@ for I think that she and Mary Griffin are two most memorable instances of
 the reality and rectitude of the principles of spiritual light and life.`"
 The time of her decease has not been ascertained.]
 
+[.signed-section-context-open]
 New York, Second month 12th, 1756.
 
 In a degree of that love wherewith our Heavenly Father has loved us,
@@ -3623,13 +3928,18 @@ So be it, oh Lord God!
 I am, with the salutation of true love, your friend and brother in the faith, patience,
 tribulation, and victory of the gospel,
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Dr. Fothergill.
 
+[.signed-section-context-open]
 Philadelphia, Second month 20th, 1756.
 
 Although a variety of painful exercising steps are in the way of my duty and labor,
@@ -3694,11 +4004,15 @@ as a factious sort of people; and I fear he has gained his point.
 But as the uneasiness of the minds of many in the Assembly with such language increases,
 I believe they will for the future be more guarded.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to Mary Jordan.^
 footnote:[She was the daughter of Mary Pemberton, and her former husband, Robert Jordan.
 Her mother, in an affecting account which she wrote concerning her,
@@ -3710,6 +4024,7 @@ Her illness was lingering, through which she was preserved in great patience,
 and uttered many tender and affecting expressions.
 She died on the 21st of Tenth month, 1759, in the twentieth year of her age.]
 
+[.signed-section-context-open]
 Upper Springfield, Third month 5th, 1756.
 
 If I have not, when personally conversant with you,
@@ -3824,13 +4139,18 @@ and hope accompanies my mind that you will be helped to live to your Creator,
 be a comfort to such as may expect it from you,
 and know a time of more true relief every way.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 Burlington, Third month, 1756.
 
 I think I have very little worth notice to send you,
@@ -3891,13 +4211,18 @@ whether Divine wisdom has changed the channel of
 instrumental intelligence from its usual course,
 by a living, sensible ministry, into the muddy pipes of the licentious.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Sister.
 
+[.signed-section-context-open]
 Philadelphia, Fourth month 28th, 1756.
 
 I often feel called upon, by the voice of unfeigned affection, to remember you;
@@ -4045,13 +4370,18 @@ and though the curtain long drawn between me and home, is at times a little draw
 yet I see not full liberty to leave this land,
 but hope a few weeks more may set the seal of peace upon my dismission.
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Philadelphia, Fourth month 29th, 1756.
 
 I acknowledge with thankfulness the kind regard of our great Master,
@@ -4088,13 +4418,18 @@ instead of a strict inquiry, "`Is there not a cause?`"
 Oh that this and our mother country may both learn righteousness,
 before the brandished sword of justice be unsheathed to their terrible chastisement!
 
+[.signed-section-signature]
 Samuel Fothergill.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 John Churchman to Ann Fothergill.
 
+[.signed-section-context-open]
 East Nottingham, Fifth month 23rd, 1756.
 
 There are but few of the many friends in England that I
@@ -4136,13 +4471,18 @@ others have been taught to think meanly of themselves,
 when, for their trial, their Life has withdrawn himself,
 and left them to view their own imperfections.
 
+[.signed-section-signature]
 John Churchman.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Ellen Evans to Ann Fothergill.
 
+[.signed-section-context-open]
 Sixth month, 1756.
 
 Though I am a stranger to your person, yet not so to the good character you bears,
@@ -4196,9 +4536,13 @@ I often do believe God has a peculiar regard to the seed of the righteous; such,
 dear friends, you are.
 May the blessing of your father's God rest plentifully on all your heads.
 
+[.signed-section-closing]
 Accept of the love of one of your father's old friends,
 
+[.signed-section-signature]
 Ellen Evans.
+
+--
 
 In several of the preceding letters, mention is made of the alarm which then prevailed,
 on account of the inroads made by the Indians on the back
@@ -4274,8 +4618,13 @@ whose labors in America were now nearly accomplished, had considerable service,
 and in the love of the gospel, took a solemn and affectionate leave,
 and soon afterwards embarked for Europe.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to John Churchman.
 
+[.signed-section-context-open]
 On board the Snow Polly, near Bombay-Hook, Sixth month, 1756.
 
 Your very acceptable salutation,
@@ -4307,7 +4656,10 @@ I boast not of my growth, for I have not overgrown a variety of painful weakness
 I am easy with a solid review of my journey,
 and believe I shall very frequently remember many of you in love unfeigned.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 The last entry in Samuel Fothergill's Journal is this:--"`5th of sixth month,
 1756.--Came on board the vessel Charming Polly, John Troy, master,
@@ -4323,7 +4675,7 @@ To many in that land he had become bound by the strong ties of Christian love;
 this bond was mutual, and terminated but with life itself.
 Many were the proofs and testimonies reciprocally given of this feeling;
 several more public testimonials were also issued by his friends,
-of their approbation of his labors amonst them.^
+of their approbation of his labors amongst them.^
 footnote:[The following certificates, which he brought from various meetings,
 are amongst the records of Hardshaw monthly meeting:
 -- From the monthly meeting of Hopewell, held at Opechan, in the county of Frederick,
@@ -4355,8 +4707,13 @@ It being a time of war, several French privateers were in the Irish channel;
 they were favored to avoid these, and to arrive in safety at Dublin,
 on the 9th of the seventh month, 1756.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Samuel Fothergill to his Wife.
 
+[.signed-section-context-open]
 Dublin, Seventh month 10th, 1756.
 
 I salute you in the tenderest affection,
@@ -4366,7 +4723,10 @@ greatly favored with health, and a degree of that holy peace which passes unders
 Glory and praise to His adorable name, who lays the beams of his chambers in the waters,
 and is the defense of his people forever.
 
+[.signed-section-signature]
 Samuel Fothergill.
+
+--
 
 They were detained in Dublin upwards of two weeks.
 On the 25th of seventh month,
@@ -4374,4 +4734,3 @@ Samuel Fothergill and Catharine Payton embarked for Holyhead,
 and proceeded from there to Chester.
 Here they parted: and on the 29th of that month,
 Samuel Fothergill was favored to reach in safety his own house at Warrington.
-

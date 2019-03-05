@@ -2353,7 +2353,7 @@ Samuel Fothergill.
 
 [.letter-heading]
 Samuel Fothergill to George Harrison.^
-footnote:[ George Harrison was a native of Kendal, resided for many years in London,
+footnote:[George Harrison was a native of Kendal, resided for many years in London,
 and died at Wandsworth, in the third month, 1827, aged eighty years.]
 
 [.signed-section-context-open]
@@ -3621,7 +3621,7 @@ The following "`Reflections on Death`" were found amongst his papers, after his 
 [.small-break]
 '''
 
- "`Oh death, how awful is even the remembrance of you, at an uncertain period;
+"`Oh death, how awful is even the remembrance of you, at an uncertain period;
 how much more striking when you certainly approaches,
 and by the vehicle of disease are near, to take possession of these tabernacles of clay,
 and about to consign them to the silent grave,

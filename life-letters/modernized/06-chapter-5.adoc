@@ -293,7 +293,7 @@ John Fothergill.
 
 [.letter-heading]
 Peter Leadbeater^
-footnote:[ Peter Leadbeater was a minister, and well esteemed in his day.
+footnote:[Peter Leadbeater was a minister, and well esteemed in his day.
 He is spoken of as being "`serviceable in his tender and seasonable advice;
 and also being of a good capacity, and clear understanding,
 helpful in the management of the discipline of the Church, an encourager of the youth,

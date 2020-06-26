@@ -831,10 +831,14 @@ Joseph Brown.^
 footnote:[Joseph Brown died near Hertford, eighth month 20th, 1748, aged forty-two.]
 
 [.postscript]
+====
+
 P+++.+++ S.--I often see thy brother John, and his company is very acceptable to me; his sweet,
 innocent carriage and deportment are exemplary to the
 youth of that great city where his lot is now cast;
 I desire that many may follow his example.
+
+====
 
 --
 

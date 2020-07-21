@@ -157,7 +157,7 @@ which had so remarkably preserved her life.
 --
 
 [.letter-heading]
-Samuel Fothergill to Catharine Payton.
+Samuel Fothergill to Catherine Payton.
 
 [.signed-section-context-open]
 Eighth month 1st, 1756.
@@ -332,7 +332,7 @@ Lydia Lancaster.
 --
 
 [.letter-heading]
-Catharine Payton to Samuel Fothergill.
+Catherine Payton to Samuel Fothergill.
 
 [.signed-section-context-open]
 Dudley, Eighth month 14th, 1756.
@@ -360,7 +360,7 @@ and may my eye be ever kept humbly watchful,
 that my flight may neither be in the winter nor on the sabbath day.
 
 [.signed-section-signature]
-Catharine Payton.
+Catherine Payton.
 
 --
 
@@ -394,7 +394,7 @@ and the more sensible testimony of acceptance.
 But may I seek more worthiness, for I have more than I merit.
 The western counties appointed their yearly meeting at Warwick this year.
 It was large, and I believe, upon the whole, satisfactory.
-Catharine Payton had very acceptable service; but, between ourselves,
+Catherine Payton had very acceptable service; but, between ourselves, I
 I had a painful prospect and feeling of the present state of the ministry among us;
 yes, more so than ever before.
 My sister Ann met me at Warwick, and I went with her to London,
@@ -1433,7 +1433,7 @@ ail combined to produce a serious effect upon his constitution,
 from which it never afterwards fully recovered.
 
 His strength was on this occasion greatly reduced, and his recovery was slow.
-It is thus mentioned in the journal of his intimate friend, Catharine Payton:--
+It is thus mentioned in the journal of his intimate friend, Catherine Payton:--
 
 "`Fourth month 9th, 1757.--We went to Warrington,
 where a renewed occasion of thankfulness to gracious Providence was administered,
@@ -1536,7 +1536,7 @@ The next day was extremely wet, and perhaps,
 proved a sufficient excuse to some of our brethren in profession,
 for their not attending the monthly and quarterly meetings, both held there.
 The number of those who came was very small: I think not above a dozen or fourteen men,
-and not more women; among the latter was dear Catharine Payton, to whom, I believe,
+and not more women; among the latter was dear Catherine Payton, to whom, I believe, it
 it was a day of suffering and pain.
 She intimated her willingness to see some of their families at home,
 and much to my unexpected pleasure,
@@ -1584,7 +1584,7 @@ I think none were more watchfully circumspect at all times than she.
 Though now gone from works to rewards,
 I hope the remembrance of her will be often
 livingly fresh in my mind for my own instruction.
-The endearing love which subsisted between her and dear Catharine Payton,
+The endearing love which subsisted between her and dear Catherine Payton, will
 will render the trial to the latter great;
 she knows where in time past she has found support,
 and I hope will be yet enabled to trust in Him, who remains to the upright,
@@ -1797,7 +1797,7 @@ John Gurney.
 --
 
 [.letter-heading]
-Catharine Payton to Samuel Fothergill.
+Catherine Payton to Samuel Fothergill.
 
 [.signed-section-context-open]
 Woodbridge, Sixth month 21st, 1757.
@@ -1845,7 +1845,7 @@ so far as I can yet discover, Providence smiles on the undertaking,
 and I humbly hope will favor us with peace therein.
 
 [.signed-section-signature]
-Catharine Payton.
+Catherine Payton.
 
 --
 
@@ -1916,7 +1916,7 @@ he always spoke of it as an excellent admonition.
 --
 
 [.letter-heading]
-Catharine Payton to Samuel Fothergill.
+Catherine Payton to Samuel Fothergill.
 
 [.signed-section-context-open]
 Norwich, Seventh month 6th, 1757.
@@ -1981,7 +1981,7 @@ may our eyes be kept attentive to that which alone can make us helpful to each o
 and give an impartial judgment of our prospects and services.
 
 [.signed-section-signature]
-Catharine Payton.
+Catherine Payton.
 
 [.postscript]
 ====
@@ -2003,7 +2003,7 @@ and the Divine mercy.
 ====
 
 [.signed-section-signature]
-Catharine Payton.
+Catherine Payton.
 
 --
 
@@ -2018,13 +2018,13 @@ to Samuel Fothergill.
 [.signed-section-context-open]
 Norwich, Seventh month 9th, 1757.
 
-Our worthy friends Catharine Payton and S. Hume, are still here,
+Our worthy friends Catherine Payton and S. Hume, are still here, with
 with A. Farrington and John Bradford.
 Their company has been much to the satisfaction of Friends in general,
 and very greatly to mine, who have the pleasure of entertaining them.
 I hope they have had some reason not to repent their visit to this place.
 Our meetings have been very large;
-probably Catharine Payton may have given you her sentiments of them, and therefore,
+probably Catherine Payton may have given you her sentiments of them, and therefore, I
 I shall only say,
 her appearances therein have been like such as seek not their own honor,
 but the glory of Him who has called them,
@@ -2130,7 +2130,7 @@ Samuel Fothergill.
 --
 
 [.letter-heading]
-Catharine Payton to Samuel Fothergill.
+Catherine Payton to Samuel Fothergill.
 
 [.signed-section-context-open]
 Amsterdam, Eighth month 1st, 1757.
@@ -2182,7 +2182,7 @@ but I cannot help thinking that had the visits of Friends been more frequent,
 that difficulty would have been less than it is.
 
 [.signed-section-signature]
-Catharine Payton.
+Catherine Payton.
 
 --
 
@@ -2437,7 +2437,7 @@ Thomas Greer.
 --
 
 [.letter-heading]
-Catharine Payton to Samuel Fothergill.
+Catherine Payton to Samuel Fothergill.
 
 [.signed-section-context-open]
 Kelvedon, Ninth month 10th, 1757.
@@ -2492,7 +2492,7 @@ wherein I found I had need to be better learned.
 My dear companion, Sophia Hume, left me this afternoon, being gone to London.
 
 [.signed-section-signature]
-Catharine Payton.
+Catherine Payton.
 
 --
 
@@ -2958,7 +2958,7 @@ Anthony Benezet.
 --
 
 [.letter-heading]
-Catharine Payton to Samuel Fothergill.
+Catherine Payton to Samuel Fothergill.
 
 [.signed-section-context-open]
 Dudley, Eleventh month 11th, 1757.
@@ -3012,7 +3012,7 @@ which humbling dispensation I know was profitable, at the close of a journey,
 wherein I had been sometimes remarkably favored.
 
 [.signed-section-signature]
-Catharine Payton.
+Catherine Payton.
 
 --
 
@@ -3715,7 +3715,7 @@ than those who have attended the Welsh yearly
 meetings allow to have been the case formerly;
 too many there appearing invariably fixed in their own opinions.
 
-Samuel Neale and Catharine Payton had an opportunity at
+Samuel Neale and Catherine Payton had an opportunity at a
 a crowded meeting here in the morning,
 both I hope well.
 She was really clothed with the best coat of mail,
@@ -3767,7 +3767,7 @@ and the next morning to Dudley meeting.
 We found our friends there bravely in health.
 
 I was much pleased, and hope to be profited, with my late visit to that family,
-(Catharine Payton`'s). As it is now unlikely I shall ever see them more,
+(Catherine Payton`'s). As it is now unlikely I shall ever see them more, it
 it is indeed joyous to believe,
 that the Hand which has ever guarded and supported all
 that have been steadfast to the end,
@@ -4468,7 +4468,7 @@ Samuel Fothergill.
 --
 
 [.letter-heading]
-Samuel Fothergill to Catharine Payton.
+Samuel Fothergill to Catherine Payton.
 
 [.signed-section-context-open]
 Warrington, Eleventh month 3rd, 1759.

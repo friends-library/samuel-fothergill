@@ -1580,7 +1580,7 @@ The yearly meeting at Bolton, mentioned in the preceding letter, was large,
 and attended by many valuable ministers, and a great number of sober inquiring people,
 to whom much was communicated, in gospel authority, to their comfort and instruction.
 From Bolton, Samuel Fothergill,
-in company with Catharine Payton and several other Friends,
+in company with Catherine Payton and several other Friends, went
 went to the yearly meeting for Wales, held this year at Bala.
 This also was a large and favoured meeting.
 
@@ -1588,7 +1588,7 @@ This also was a large and favoured meeting.
 --
 
 [.letter-heading]
-Samuel Fothergill to Catharine Payton.
+Samuel Fothergill to Catherine Payton.
 
 [.signed-section-context-open]
 Warrington, 1760. Sixth month, 1762.
@@ -2170,7 +2170,7 @@ and also on some other subjects.
 --
 
 [.letter-heading]
-Samuel Fothergill to Catharine Payton.
+Samuel Fothergill to Catherine Payton.
 
 [.signed-section-context-open]
 Warrington, 1760. Second month 26th, 1763.
@@ -3314,7 +3314,7 @@ Samuel Fothergill.
 --
 
 [.letter-heading]
-Samuel Fothergill to Catharine Payton.
+Samuel Fothergill to Catherine Payton.
 
 [.signed-section-context-open]
 Warrington, 1760. Third month 25th, 1767.

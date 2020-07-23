@@ -532,7 +532,7 @@ Samuel Fothergill.
 [.letter-heading]
 Mary Peisley^
 footnote:[Mary Peisley was a well-esteemed minister.
-She visited America in company with Catherine Payton. She
+She visited America in company with Catherine Payton.
 She was subsequently married to Samuel Neale, and three days afterwards, viz.,
 on the 20th of Third month, 1757, she departed this life.]
 to Samuel Fothergill.
@@ -576,9 +576,9 @@ Mary Peisley.
 --
 
 [.letter-heading]
-Samuel Fothergill to Catherine Payton.^ footnote:[For
+Samuel Fothergill to Catherine Payton.^
 footnote:[For many years an intimate friendship and frequent correspondence
-was maintained between Samuel Fothergill and Catherine Payton. She
+was maintained between Samuel Fothergill and Catherine Payton.
 She was the daughter of Henry and Ann Payton, of Dudley.
 When about twenty-two years of age, she came forth in the ministry,
 and in the exercise of this gift travelled much, in most parts of England and Scotland;

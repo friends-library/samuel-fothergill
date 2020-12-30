@@ -12,7 +12,10 @@ and his earnest desire to obtain and proceed
 with the unity and concurrence of his friends,
 are well worthy of note.
 
-"`It having been weightily upon my mind, from the motion of the Word of Life,
+[.embedded-content-document.]
+--
+
+It having been weightily upon my mind, from the motion of the Word of Life,
 to pay a religious visit to the church of Christ in the plantations of North America;
 after near ten years from the first opening thereof, and many painful tossings,
 with fear on one hand of running unsent, and on the other,
@@ -22,7 +25,7 @@ I found it clearly opened when was the proper time,
 and a disposition of spirit was given me to acquiesce with Truth`'s requirings,
 and endeavour to act honestly thereto.
 
-"`In pursuance whereof,
+In pursuance whereof,
 having mentioned my concern to several weighty brethren and sisters,
 and having their concurrent sense of my being rightly called to that service,
 I acquainted our Friends at the preparative meeting at Penketh,
@@ -40,12 +43,12 @@ in order to obtain the concurrence or counsel of Friends, both for example`'s sa
 and the mutual unity of the brotherhood, which in low times,
 hath been strength and encouragement to my drooping spirit.
 
-"`I left Warrington the 2nd of eighth month, 1754: my dear wife, with some others,
+I left Warrington the 2nd of eighth month, 1754: my dear wife, with some others,
 accompanied me to Leek, where we parted on the 3rd, and I came to London,
 being met at Albans by my sister, on the 5th, and stayed in London until the 9th,
 when dear John Churchman and myself, accompanied by many Friends, went down to Gravesend.
 
-"`Eighth month 10th, 1754.--Went on board the Caroline, Stephen Mesnard, commander; had,
+Eighth month 10th, 1754.--Went on board the Caroline, Stephen Mesnard, commander; had,
 with many Friends who went on board, a precious opportunity,
 in the humbling sense of Divine regard.
 We returned to Gravesend to dine; and afterwards parted from our dear friends,
@@ -53,21 +56,23 @@ and went on board the ship.
 Fell down the river, and were detained in the Downs and the Channel until the 17th,
 when we lost the sight of land, and pursued our voyage.
 
-"`Had a comfortable passage,
+Had a comfortable passage,
 in which time we always kept up--though only two,--our religious meetings,
 and the Lord of all mercies was often and mercifully near to our comfort.
 
-"`Ninth month 23rd.--We first discovered the Capes of Delaware river,
+Ninth month 23rd.--We first discovered the Capes of Delaware river,
 and took in a pilot; being favoured with a good wind,
 we came one hundred and twenty miles up the river, and cast anchor above Wilmington.
 
-"`24th.--Went ashore, and hired horses to Wilmington,
-where we were very kindly received by William and Elizabeth Shipley,
+24th.--Went ashore, and hired horses to Wilmington,
+where we were very kindly received by William and Elizabeth Shipley.
 Immediately after our arrival, William Brown and Joshua Dixon came in,
 who were just landed, though they sailed three weeks before us.
 Dear John Churchman went home that evening, and William Brown, Joshua Dixon, and myself,
-went up that evening to Philadelphia and Schuylkill, I lodged at Israel Pemberton`'s,
-where I met a kind reception.`"
+went up that evening to Philadelphia and Schuylkill. I lodged at Israel Pemberton`'s,
+where I met a kind reception.
+
+--
 
 The journal is kept thus minutely only for a few days after he landed in America;
 but he continued daily to record in it the places he visited,
@@ -173,7 +178,7 @@ and the mighty Name is deservedly exalted.
 In the midst of this favour I rejoice with trembling,
 and in full expectation of my having an approaching humbling time,
 wherein I may be proved with want and poverty; I am thoroughly resigned, I hope,
-to suffer as well as to abound Friends here treat me with very great affection,
+to suffer as well as to abound. Friends here treat me with very great affection,
 on dear father`'s account,
 and some resemblance in person and ministry has induced
 divers to think they would have known me to be his son,
@@ -273,7 +278,7 @@ And may we,
 who have been frequently visited with tokens of the Divine regard in this respect,
 walk worthy of so great mercy and favour,
 by bringing forth fruits agreeable to the abundant labour bestowed upon us.
-Well may it be said of us, as of old, We, as a people,
+Well may it be said of us, as of old, wwe, as a people,
 above all the families of the earth, have been distinguished,
 by the inestimable blessing of a living and powerful ministry;
 the Lord grant that the present generation may
@@ -713,8 +718,8 @@ and has sometimes, though against my will, stepped in between me and expense.
 
 I am humbly thankful to the all-sufficient Hand,
 for the continued evidence of his blessed regard;
-and strong hope prevails be will not be unmindful of thee,
-and my little concerns at home, but by his blessed Providence make bard things easy,
+and strong hope prevails he will not be unmindful of thee,
+and my little concerns at home, but by his blessed Providence make hard things easy,
 and enable, with patience, and careful diligence, to act our several parts,
 to our comfort in him and one in another.
 
@@ -1235,7 +1240,7 @@ thankful heart I review the difficulties and jeopardies which have attended,
 and through which gracious protection hath sustained me; record it, my soul,
 in thine annals, to be often perused to thy humiliation.
 I returned through Virginia to the western shore of Maryland,
-and`' visited the meetings thereaway; which was made a time of renewed visitation to many,
+and visited the meetings thereaway; which was made a time of renewed visitation to many,
 and solid comfort in honest labour to myself.
 On the 5th instant, I crossed the great river Susquehanna,
 and came to the habitation of dear John Churchman,
@@ -1244,7 +1249,7 @@ where I met with a kind and affectionate reception.
 I found not much time for respite, and visited several meetings in that neighbourhood,
 in which I had his and his valuable wife`'s good company, to our mutual satisfaction.
 
-The instances of mortality thou mentions are affecting and instructive hints to us, who,
+The instances of mortality thou mention are affecting and instructive hints to us, who,
 for a short time survive, that we forget not that we also are strangers here,
 and are hastily advancing to an unchangeable state.
 
@@ -1331,7 +1336,7 @@ and splendours below can ever furnish.
 Thy affectionate care for my health, and prudent cautions against too much hurry,
 are marks of a regard which shall not be extended to a person deaf to advice;
 I find their force and truth,
-and assure thyself they have that weight with me thou desires.
+and assure thyself they have that weight with me thou desire.
 I have found great advantage to myself, and some service to others,
 in the families of Friends,
 from spending the evenings in such a manner as is
@@ -1384,7 +1389,7 @@ Samuel Fothergill.
 Samuel Fothergill to Ellen Evans.
 
 [.signed-section-context-open]
-Fourth month 18th, 1765.
+Fourth month 18th, 1755.
 
 Had opportunity allowed, I should, long ere this,
 have acknowledged the receipt of thy affectionate lines,
@@ -1406,7 +1411,7 @@ have their garments so covered with dust, and spotted with defiling things,
 that they are not fit to be looked upon, nor their footsteps to be inquired after.
 But happy is the state of those advanced to old age,
 whose conduct proclaims they have not followed cunningly devised fables,
-but have been made living witnesses of the power and coming of Christ I
+but have been made living witnesses of the power and coming of Christ!
 These have been powerful inducements to me to bow my heart in holy awe,
 from childhood to this day,
 (I mean with respect to outward means,) and I am thankful to the great preserver of men,
@@ -1985,7 +1990,7 @@ where no European Friends have hitherto been, that I have heard of;
 it is called Martha`'s Vineyard; I cannot with ease of mind pass it by,
 and intend to sail for it soon after midnight,
 intending to have a meeting there tomorrow afternoon,
-and thence to the main land of New England,
+and thence to the mainland of New England,
 and would gladly hope to be again in Philadelphia in the ninth month.
 I have looked about me, in every place I have left,
 whether I had any more service required; and though I have used great diligence,
@@ -2024,7 +2029,7 @@ Dearly beloved Friends,
 In the sensible renewings of that melting, humbling love,
 which hath often bowed my spirit and yours in reverend, holy worship,
 when present with you, do I affectionately salute the truly living amongst you,
-as present in spirit, though, for the cause of truth,`' far separated in body; yet,
+as present in spirit, though, for the cause of truth, far separated in body; yet,
 by no means less inwardly anxious for your establishment in the unchangeable truth,
 than when present amongst you,
 and engaged in labour for your help and growth into
@@ -2089,7 +2094,7 @@ and an affectionate concern that you might be prevailed
 with to work while it is yet day with you,
 and be excited to seek after the one thing; a solemn approaching hour will convince you,
 that it is absolutely necessary for peace and rest forever.
-How long hath the gracious Hand been extended for your help! even all the day long,
+How long hath the gracious Hand been extended for your help! Even all the day long,
 until the evening has drawn near, and his locks have been wet with its dews;
 unwilling to leave, and graciously mindful of you.
 Oh! that none such may survive the extending of
@@ -2518,7 +2523,7 @@ but to come up duly in the performance of them.
 I take notice, with much thankfulness,
 of thy kind concern and regard for me in the conduct of my worldly affairs,
 and am duly sensible that thy very good advice springs from that Divine Fountain
-that has hitherto freely flowed through thee to all the visited of God Our children,
+that has hitherto freely flowed through thee to all the visited of God. Our children,
 through mercy, are in health,
 and Heavenly Goodness is near to the tendering of the minds of many of them,
 and the refreshing dew, I hope, rests upon the minds of those growing up.
@@ -2961,7 +2966,7 @@ and to keep my strength collected and firm for the anxious labour of the day.
 
 And, indeed, the sum of Divine mercies is unutterable,
 of which my soul hath been made partaker, for my own and others`' help;
-it hath been renewed from day to day.
+it hath been renewed from day to day
 in deep and wise proportions; sometimes more scarce and deeply hid from sight or sense,
 to awaken awful research; sometimes more evidently manifest,
 to confirm humble confidence in the all-sufficient Helper: thus deep,
@@ -3217,7 +3222,7 @@ Lancaster, Twelfth month 13th, 1755.
 
 Thy welfare every way is the concern of my mind, now,
 in the absence of thy husband more particularly,
-that thou maybe preserved daily in that which, above all things, will be thy wisdom,
+that thou may be preserved daily in that which, above all things, will be thy wisdom,
 strength, comfort, and support, both in spirituals and temporals.
 I find great need of it myself,
 having no other help to guide and instruct me in the proper way of my duty,
@@ -3809,7 +3814,7 @@ all well approved; among whom is E. G., from a state of mind far from agreeable,
 is reduced to the greatest humility, and as a weaned child,
 is in much self-abasement and abhorrence.
 He appears in their great meetings, to the satisfaction and joy of Friends,
-and agreeable surprise of every body;
+and agreeable surprise of everybody;
 and that there is such an open door of convincement,
 that he thinks it may be said there are almost daily some added to the faith.
 
@@ -3860,6 +3865,7 @@ All her faculties have, in a measure, fled, save her religious sensibility;
 she has no sort of recollection that she ever had either husband or children, or houses,
 or lands, nor of her nearest friends even, when named; yet her sense of Divine good,
 and the religious fervour of her mind, are unabated.
+{footnote-paragraph-split}
 "`We stayed about an hour, the whole of which time she was engaged in praising her Maker,
 in exhorting us to love the Lord, and to lay up treasure in the heavens;
 several times saying, '`One hour in his presence is better than a thousand elsewhere:
@@ -3870,7 +3876,9 @@ and after being still a few moments,
 she would again lift up her voice with much sweetness in praising the Lord,
 and advising us to love and fear him; and looking round upon us said, '`I love you,
 dear friends, though you are strangers to me; for I love them that love the Lord,
-blessed be his name!`' "`The whole company were in tears whilst we stayed.
+blessed be his name!`'
+{footnote-paragraph-split}
+"`The whole company were in tears whilst we stayed.
 The remembrance of this season is not off my mind; nor, I hope, ever will be,
 while memory remains,
 for I think that she and Mary Griffin are two most memorable instances of
@@ -3909,7 +3917,7 @@ I am mercifully sustained in health and ability to proceed
 with diligence in the Heavenly Master`'s employment.
 I thoroughly visited Chester county; performed a second visit, to my great satisfaction,
 to the western shore of Maryland, and through the Jerseys, to this city.
-I stand ready to go any where that truth leads, and light shines;
+I stand ready to go anywhere that truth leads, and light shines;
 but think I am near clear of this land; and have this evidence--I have, in my measure,
 laboured faithfully.
 I have seldom known a greater share of the word of life than
@@ -4591,14 +4599,21 @@ and in particular to prevent the Indians from becoming engaged in the war.
 These efforts were frequent and strenuous, but proved unavailing.
 In his Journal are the following entries:
 
-"`Fourth month 9th, 1756.--Had some labour amongst Friends,
+[.embedded-content-document]
+--
+
+Fourth month 9th, 1756.--Had some labour amongst Friends,
 to endeavour to prevent a cruel Indian war;
 and had also a conference with the present and late Governor, along with John Pemberton,
 upon the present posture of affairs; they received us with candour,
-but our labour was ineffectual, for on the "`10th,
+but our labour was ineffectual, for on the
+
+10th,
 a day to be remembered through many generations with sorrow,
 the Governor agreed to proclaim war against the Delawares,
-and delivered the hatchet into the hands of some of the Indians.`"
+and delivered the hatchet into the hands of some of the Indians.
+
+--
 
 This conclusion on the part of the government,
 was the source of much distress to Friends in general;
@@ -4646,7 +4661,8 @@ and although the heavenly approbation is the most to be prized and sought after,
 yet the pure fellowship of the brotherhood is a stream
 from that eminent spring whence all good proceeds;
 and even the fellowship of the saints on high, in the Father`'s love,
-is a part of their felicity,
+is a part of their felicity.
+
 I have taken my leave of America with peace and quietude of mind.
 I have some sea store, but not to profusion.
 I beg wisdom to husband it well, that I may carry some of it home,
@@ -4704,7 +4720,7 @@ According to the account kept in his Journal, he had travelled,
 during his visit in America, eight thousand seven hundred and sixty-five miles.]
 
 The vessel in which the Friends embarked had a comparatively quick,
-though rather a a stormy passage, of thirty-four days.
+though rather a stormy passage, of thirty-four days.
 The waves, at times, dashed over into the cabin.
 Notwithstanding the stormy weather,
 they had many good and precious meetings during the voyage,

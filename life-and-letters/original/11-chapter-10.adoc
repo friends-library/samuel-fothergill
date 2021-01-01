@@ -28,16 +28,16 @@ in their language and style, that portions of them were of his composition.
 From the records of the yearly meeting in 1753,
 it appears that he then proposed the establishment of a
 yearly meeting of ministers and elders,
-and several minutes occur on the subject The proposal made by our friend Samuel
+and several minutes occur on the subject&hellip; The proposal made by our friend Samuel
 Fothergill respecting the establishment of a yearly meeting of ministers and elders,
 being reconsidered,
-was referred to the consideration of the committee for drawing up the epistle John Fry,
+was referred to the consideration of the committee for drawing up the epistle&hellip; John Fry,
 from the committee appointed to consider the proposal made by
 Samuel Fothergill with respect to the holding a general
 meeting for ministers and elders annually in this city,
-brought in a report, in which they say, That having solidly considered the proposition,
+brought in a report, in which they say, "`That having solidly considered the proposition,
 it is their sense and judgment that it may contribute to the advantage of
-the Society to have such a meeting of ministers and elders established.
+the Society to have such a meeting of ministers and elders established.`"
 The report was read and considered,
 and on the following day it was agreed that it should remain solidly on Friends`' minds,
 and in the year following it was deliberately considered and concluded.
@@ -65,7 +65,7 @@ and the following extracts are from some of his letters to R. Selby on the occas
 [.embedded-content-document.letter]
 --
 
-"`I am convinced, by the testimony of the Holy Scriptures,
+I am convinced, by the testimony of the Holy Scriptures,
 that the sprinkling of water upon the face of either
 adults or infants hath no warrantry therein:
 it is neither the baptism of John, nor of our blessed Redeemer;
@@ -77,9 +77,9 @@ the power and purity of the gospel.
 Had thy mind been happily subjected to the purifying
 effects of the baptism of the Holy Ghost,
 the baptism that now saves, and of which the holy Jesus was and is the minister,
-I persuade myself thou wouldest have acted a different part.`"
+I persuade myself thou wouldest have acted a different part.
 
-"`I suppose thy remark on S. C.^
+I suppose thy remark on S. C.^
 footnote:[The father of the young woman.]
 being an enemy to the religion of his country, is a reflection on our Society.
 I trust we are not enemies to true religion, which avails before God the Father.
@@ -88,7 +88,7 @@ believing its chief emolument is sanctity of heart and the favour of God,
 and not lucrative advantages.
 We have reason to believe there yet remain men who suppose gain is godliness,
 and are more concerned to advocate their claims by temporal motives,
-than by the love of Christ; and from such we turn away.`"
+than by the love of Christ; and from such we turn away.
 
 --
 
@@ -98,7 +98,7 @@ Samuel Fothergill writes thus:
 [.embedded-content-document.letter]
 --
 
-"`I am very free to tell thee I make not merchandise of religion:
+I am very free to tell thee I make not merchandise of religion:
 I amuse not the people with the false traffic of unfelt truths.
 I confess some of the earlier scenes of my life were passed in folly, vanity,
 and infidelity; but having found mercy with God, through Jesus Christ,
@@ -107,7 +107,7 @@ I endeavour to persuade others to be reconciled unto God, by forsaking every evi
 and turning to him in faith and prayer, with their whole hearts.
 This is the end of my labour, and its whole intention;
 for this I am willing to spend and to be spent, without any fee or reward from men.
-The Lord judge between me and thee in this matter.`"
+The Lord judge between me and thee in this matter.
 
 --
 
@@ -122,7 +122,7 @@ I have not been able to collect any further particulars
 of the case named in this letter.--G. C.]
 
 [.signed-section-context-open]
-Warrington, 1760. 1760.
+Warrington, 1760.
 
 My friend, Abraham Rawlinson, some time ago, gave me thine, dated 11th of April,
 which brought thy Commissary`'s remarks on the suffering case of the Websters,
@@ -220,7 +220,7 @@ Samuel Fothergill.
 Samuel Fothergill to his Sister.
 
 [.signed-section-context-open]
-Warrington, 1760. Third month 23rd, 1760.
+Warrington, Third month 23rd, 1760.
 
 I am favoured with pretty good health, a blessing greatly to be prized,
 and in other respects quiet and content; I do not abound, nor am I wholly destitute;
@@ -283,7 +283,7 @@ Samuel Fothergill.
 Samuel Fothergill to Mary Pemberton.
 
 [.signed-section-context-open]
-Warrington, 1760. Fourth month 7th, 1760.
+Warrington, Fourth month 7th, 1760.
 
 I was favoured with thine, and must acknowledge it was acceptable,
 though it brought me the tidings of thy daughter`'s^
@@ -369,14 +369,14 @@ Samuel Fothergill.
 Samuel Fothergill to John Pemberton.
 
 [.signed-section-context-open]
-Warrington, 1760. Fourth month 10th, 1760.
+Warrington, Fourth month 10th, 1760.
 
-As I tenderly love you, I rejoice in whatever attends you that is prosperous,
+&hellip; As I tenderly love you, I rejoice in whatever attends you that is prosperous,
 particularly that our gracious Lord and Lawgiver overshadows your meetings,
 when the body is collectively assembled for his service.
 He hath often limited the turbulent waves which contentious spirits have raised,
 and for his own name`'s sake made evidently bare his holy arm.
-I have often remarked it with admiration and worship of heart, and learned from ii,
+I have often remarked it with admiration and worship of heart, and learned from it,
 that if we do the Lord`'s work in his spirit, no weapon formed against us shall prosper.
 I am thankful for the proofs repeatedly afforded, that we are brethren,
 and are in that spiritual fellowship which is not straitened by distance of place,
@@ -388,7 +388,7 @@ as well as you, who consider the approbation of men,
 more than the conformity to the pattern God clearly
 showed to the living amongst us in his holy mount.
 
-I have just now received from London, the enclosed printed epistle.
+&hellip; I have just now received from London, the enclosed printed epistle.
 I thought for some time I had a concern to send Friends of Tortola a few hints, and I,
 therefore, threw together a few sentiments.
 I sent it up to my brother for his consideration; he laid it before the Morning meeting,
@@ -396,7 +396,7 @@ who, with some little immaterial alteration in the words, directed it to the pre
 as it was considered that the transient reading of an epistle once in a meeting,
 might be of less use than printing such a number
 as might supply every family with several.
-One hundred of them will be sent to Tortola.
+One hundred of them will be sent to Tortola&hellip;
 
 My time hath been pretty much employed, in one little service or another,
 during the past winter; and I have got peace of mind, and that is very great riches.
@@ -418,6 +418,7 @@ Samuel Fothergill.
 
 --
 
+[.offset]
 The following is the epistle mentioned in the foregoing letter:
 
 [.embedded-content-document.letter]
@@ -427,7 +428,7 @@ The following is the epistle mentioned in the foregoing letter:
 To Friends of the Island of Tortola.
 
 [.signed-section-context-open]
-Warrington, 1760. Third month 17th, 1760.
+Warrington, Third month 17th, 1760.
 
 [.salutation]
 Dear friends,
@@ -442,7 +443,7 @@ in which, I wish you the possession of that happiness which is everlasting.
 
 It was tidings of great joy to the living body of Friends in this land,
 to hear that the Lord Almighty was at work in your island, to beget children to himself;
-and that the same substanstial virtue which wrought upon many, in this and other nations,
+and that the same substantial virtue which wrought upon many, in this and other nations,
 to redeem and purify them a people to the praise of his great Name,
 had also visited you with a day-spring from on high,
 and produced the same blessed fruits in measure, even a death unto sin,
@@ -612,22 +613,29 @@ and now addressing myself to one who was in Christ before me,
 yet permit me to offer to thy thoughts a few sentiments,
 which have been sealed usefully on my heart.
 
-First.--It is a most solemn and awful thing to assume the name of the Lord`'s ambassador;
+[.numbered-group]
+====
+
+[.numbered]
+_First._--It is a most solemn and awful thing to assume the name of the Lord`'s ambassador;
 I believe thou considers it so.
 Thence ought we also to consider the high obligations we are under to receive from him,
 not only his instructions, but our credentials.
 
-Secondly.--These will not be withheld, if we wait our Master`'s time;
+[.numbered]
+_Secondly._--These will not be withheld, if we wait our Master`'s time;
 his sound will be certain, and his discoveries clear.
 We shall not say, like Ahimaaz, When I ran, there was a tumult;
 but distinctly receive and deliver our Master`'s message, in his own wisdom and spirit.
 
-Thirdly.--In all our service, let us remember our Lord`'s dignity,
+[.numbered]
+_Thirdly._--In all our service, let us remember our Lord`'s dignity,
 and endeavour to maintain it according to the proportion of strength vouchsafed,
 both in purity of life, and singleness to him, in our ministerial capacity,
 being empty without him, and only filled with his fulness.
 
-Fourthly.--Let us learn to try the spirits, whether they are of God.
+[.numbered]
+_Fourthly_.--Let us learn to try the spirits, whether they are of God.
 I have seen a danger, especially in your sex, of being taken by the passions;
 the passionate preacher hath affected the passionate hearer; both have been in raptures,
 and neither of them profited.
@@ -653,6 +661,8 @@ but I found it safe to wear my sackcloth on my loins,
 and put on my best garments honestly and sparingly.
 Receive no obligation from that quarter, which thou can avoid, lest they say,
 "`I have requited her labour,`" or make vain the purport of thy testimony.
+
+====
 
 In the course of thy passage, be courteous to all,
 unless restricted by secret direction with respect to any particular,
@@ -689,7 +699,7 @@ Samuel Fothergill.
 Samuel Fothergill to Jane Crosfield.
 
 [.signed-section-context-open]
-Warrington, 1760. Sixth month 28th, 1760.
+Warrington, Sixth month 28th, 1760.
 
 I am concerned that it so falls out I cannot be at home
 personally to bid thee farewell and wish thee a good journey.
@@ -761,7 +771,7 @@ a minister forty-four years.
 
 This honourable woman, the editor`'s grandmother, is also mentioned by John Woolman,
 in his journal; he says, "`Being now at George Crosfield`'s in the county of Westmoreland,
-I feel a concern to commit to writing that which to me hath been a case uncommon.`"
+I feel a concern to commit to writing that which to me hath been a case uncommon.`"&hellip;
 And again, "`I rested a few days, both in body and mind, with our friend Jane Crosfield,
 who was once in America.`"
 (Seventh month, 1772.)
@@ -773,7 +783,7 @@ who was once in America.`"
 Samuel Fothergill to Gilbert Thompson.
 
 [.signed-section-context-open]
-Warrington, 1760. Sixth month 29th, 1760.
+Warrington, Sixth month 29th, 1760.
 
 [.salutation]
 Dear Cousin,
@@ -820,7 +830,7 @@ Samuel Fothergill.
 Samuel Fothergill to Israel and Mary Pemberton.
 
 [.signed-section-context-open]
-Warrington, 1760. Ninth month 8th, 1760.
+Warrington, Ninth month 8th, 1760.
 
 Though the channel of personal and epistolary conversation
 with you may be at times interrupted by other occasions,
@@ -836,7 +846,7 @@ and our peace flow as a river.
 We have our several probations to pass through, and our warfare to accomplish;
 various are the trials and besetments, some constitutional and some adventitious,
 so as to occasion a query.
-Who is sufficient for these things`'? I beheld a
+'`Who is sufficient for these things`'? I beheld a
 state to which salvation is ever extended;
 and that is true poverty: "`This poor man cried, and the Lord heard him,
 and saved him out of all his troubles.`"
@@ -938,9 +948,9 @@ by happy experience, it is attainable in this life.
 Samuel Fothergill to John Gurney.
 
 [.signed-section-context-open]
-Warrington, 1760. Tenth month 11th, 1760.
+Warrington, Tenth month 11th, 1760.
 
-A variety of engagements fill up my time;
+&hellip; A variety of engagements fill up my time;
 several journeys the last summer have fallen to my lot,
 yet the affection I bear to many individuals, thyself and dear wife amongst others,
 remain strong, though concealed in silence: may the holy flame of love be maintained,
@@ -964,7 +974,7 @@ Samuel Fothergill.
 Samuel Fothergill to his Brother John.
 
 [.signed-section-context-open]
-Warrington, 1760. Eleventh month 12th, 1760.
+Warrington, Eleventh month 12th, 1760.
 
 The secret emotions of tender affection to thee and dear
 sister frequently and strongly bring you both to remembrance;
@@ -980,7 +990,7 @@ have underneath sackcloth on their loins.
 
 It is never better with me,
 than when I descend to bring up some fresh memorials from the hidden depths.
-Though the waves and billows may at times pass over my head, they are thy waves, oh.
+Though the waves and billows may at times pass over my head, they are thy waves, oh,
 Father, and I will humbly look through them all towards thy holy temple.
 
 I have thrown together some sentiments and remarks,
@@ -1049,19 +1059,22 @@ and in much reputation as a learned man, and as an accomplished classical schola
 The occasion of this controversy is thus described by Samuel Fothergill,
 in the introduction to his second pamphlet: --
 
-"`M. Pilkington, Prebendary of Litchfield,
-some time ago published a Sermon on the Nature and Necessity of Water Baptism,
-as an indispensable token of the Christian Covenant, etc.
-This he prefaced with an '`Address to the People called Quakers;`'
+[quote]
+____
+
+M+++.+++ Pilkington, Prebendary of Litchfield,
+some time ago published a "`Sermon on the Nature and Necessity of Water Baptism,
+As an Indispensable Token of the Christian Covenant, etc.`"
+This he prefaced with an '`Address to the People Called Quakers;`'
 in which he called upon them to declare their sentiments,
 and pointed them out as in a state of exclusion from the covenant in Jesus Christ.
 
-"`This induced me to throw together a few reasons for our dissent:
-though I enter into controversy with, reluctance,
+This induced me to throw together a few reasons for our dissent:
+though I enter into controversy with reluctance,
 I would not decline a sober discussion of the things
 most surely believed amongst us as a people.
 
-"`This I hope will be sufficient excuse for my remarks on the Prebendary`'s arguments:
+This I hope will be sufficient excuse for my remarks on the Prebendary`'s arguments:
 I did not begin the dispute, but attempted to speak our sentiments in our own language,
 and remove the censures he had passed upon us,
 as it seemed consistent with the Apostle`'s advice,
@@ -1071,13 +1084,13 @@ with meekness and fear, having a good conscience; that,
 whereas they speak evil of you as of evil doers,
 they may be ashamed that falsely accuse your good conversation in Christ.`' 1 Peter 3:15-16.
 
-"`Respecting the temper in which I wrote, I have this evidence in my own mind,
+Respecting the temper in which I wrote, I have this evidence in my own mind,
 that I felt no sensation inconsistent with the angelic song,
-'`Glory to God in the highest, and on earth peace, good-will towards men!
+'`Glory to God in the highest, and on earth peace, good-will towards men!`"
 
-"`An anonymous auxiliary to M. Pilkington, anticipates the reply with what he styles,
-a temporary local antidote against the errors in my
-pamphlet,`' and soon after a second part is published;
+An anonymous auxiliary to M. Pilkington, anticipates the reply with what he styles,
+"`A Temporary Local Antidote against the Errors in My
+Pamphlet,`"&hellip; and soon after a second part is published;
 the author no longer conceals his name, but signs, E. Owen.
 This pamphlet engageth my present attention,
 as he calls upon me to a review of the subject with this remark,
@@ -1093,25 +1106,26 @@ I must, therefore, either be silent, or give a reason of the hope that is in me:
 the former seems a suppression of truth;
 the last I hope to perform with decency and candour,
 it being my principal design to vindicate the spiritual religion of the Holy Jesus,
-and a people who embrace it, though under the discouragement of popular prejudice.`"
+and a people who embrace it, though under the discouragement of popular prejudice.
+____
 
-The first publication was entitled, "`Remarks on an Address to the people called Quakers;
+The first publication was entitled, "`Remarks on an Address to the People Called Quakers;
 and a Sermon on the nature and necessity of being
-admitted into Covenant with Christ by Baptism;
+admitted into Covenant with Christ by Baptism;`"
 published by Matthew Pilkington, LL. B., and Prebendary of Litchfield;
 in a Letter to the Author, by Samuel Fothergill.
-To which are added, a few Observations, by J. Phipps.
+To which are added, "`A few Observations,`" by J. Phipps.
 London, 1761.`"
 
 This was answered by a pamphlet, in two parts, signed E. Owen;
-"`The necessity of Water Baptism;
-a Discourse occasioned by a pamphlet lately published by Mr. Samuel Fothergill,
-of Warrington, in defence of the Quaker notion of Baptism.`"
+"`The Necessity of Water Baptism;
+a Discourse Occasioned by a Pamphlet Lately Published by Mr. Samuel Fothergill,
+of Warrington, in Defence of the Quaker Notion of Baptism.`"
 Liverpool, 1761.
 
 Some time after this, Samuel Fothergill`'s second publication appeared,
-"`A Reply to a pamphlet published, in two parts, by E. Owen, entitled.
-The Necessity of Water Baptism; by Samuel Fothergill,`" London, 1763.
+"`A Reply to a Pamphlet Published, in Two Parts,`" by E. Owen, entitled,
+"`The Necessity of Water Baptism; by Samuel Fothergill,`" London, 1763.
 
 Here the controversy ended.
 The subject was treated by Samuel Fothergill in a clear manner,
@@ -1127,7 +1141,7 @@ that he had much the best of the argument.
 Samuel Fothergill to Ellen Evans.
 
 [.signed-section-context-open]
-Warrington, 1760. Second month 6th, 1761.
+Warrington, Second month 6th, 1761.
 
 I am much indebted to thee for the tokens of thy remembrance of me,
 which I have lately received;
@@ -1176,7 +1190,7 @@ Samuel Fothergill.
 Samuel Fothergill to Israel Pemberton.
 
 [.signed-section-context-open]
-Warrington, 1760. Second month 21st, 1761.
+Warrington, Second month 21st, 1761.
 
 I remember thee frequently, with unabated affection, and never more nearly,
 and with greater sympathy, than of late,
@@ -1245,7 +1259,7 @@ Samuel Fothergill.
 Samuel Fothergill to Mary Pemberton, on the Death of her Son.
 
 [.signed-section-context-open]
-Warrington, 1760. Second month 20th, 1761.
+Warrington, Second month 20th, 1761.
 
 I never knew until lately, how near thou wast and art to my soul,
 though I thought I ever placed thee amongst those with whom I am not merely united,
@@ -1294,7 +1308,11 @@ and as a testimony of my concern for thy welfare,
 I sit down to throw before thee a few hints, which may be useful to thee if attended to,
 even to render thy life easy and happy, and thy end honourable and peaceful.
 
-First and principally, thy duty to the Almighty Lord and Maker of all things, by whom,
+[.numbered-group]
+====
+
+[.numbered]
+_First and principally,_ thy duty to the Almighty Lord and Maker of all things, by whom,
 and through whom, all things visible and invisible consist; the Author of all blessings.
 Let him be looked to and remembered by thee in this light,
 and be humbly engaged to seek his favour.
@@ -1305,7 +1323,8 @@ Be not ashamed to show thy trust in him, by humbly walking before him.
 It is in vain to expect a total freedom from sorrowful events,
 but a great mercy to have the Staff of ages to lean upon.
 
-Secondly; thy duty to thy husband, who,
+[.numbered]
+_Secondly;_ thy duty to thy husband, who,
 if I judge right from his tenderness and affection to thee,
 will be entitled to every degree of a mutual return; study his temper;
 accommodate thy own to it.
@@ -1320,7 +1339,8 @@ strengthen that part as much as possible:
 hereby a twofold cord of divine love and natural affection
 will unite you in a covenant never to be broken.
 
-Third; towards Friends of the meeting into which thou art removing,
+[.numbered]
+_Third;_ towards Friends of the meeting into which thou art removing,
 let thy conduct be humble, affable, and exemplary, not assuming; preferring others,
 that others may prefer thee.
 Humility is the surest way to honour: let no emulation to be greater than some,
@@ -1330,7 +1350,8 @@ and other disagreeable affections in the minds of others.
 Let thy dress be rather beneath, than on the level with thy circumstances;
 it will be to thy reputation.
 
-Fourth; let it become thy constant watch to avoid that ruinous practice of tattling,
+[.numbered]
+_Fourth;_ let it become thy constant watch to avoid that ruinous practice of tattling,
 talebearing, and secret reflection.
 These sources of division and mischief are hateful to God and man.
 This character sets itself as the object of general contempt;
@@ -1341,9 +1362,12 @@ without interfering unnecessarily in the business of others.
 Notwithstanding this, sacred reproof, where just, and immediately addressed to the party,
 is a beautiful, useful part of friendship.
 
-Fifth; let thy husband`'s relations become dear to thee;
+[.numbered]
+_Fifth;_ let thy husband`'s relations become dear to thee;
 cultivate every sentiment of friendship and affection for them,
 especially for his mother, with whose anxieties a son must sacredly sympathize.
+
+====
 
 Excuse, dear cousin, the freedom of these hints;
 they proceed not from any painful apprehension of a contrary conduct,
@@ -1485,7 +1509,7 @@ I remember, with great warmth,
 some of the last expressions of my honourable mother to her afflicted husband,
 respecting him, her children, and herself.
 "`Thou wilt be blessed, they will be cared for, and there is a place provided for me.
-They are not left under the tuition of a father, like too many now a days,
+They are not left under the tuition of a father, like too many nowadays,
 who will neglect their true interests, but of one who,
 knowing from whence every good comes, will seek to the gracious, all-sufficient Father,
 for himself and for his children.`"
@@ -1509,7 +1533,7 @@ Samuel Fothergill.
 Samuel Fothergill to Mary Pemberton.
 
 [.signed-section-context-open]
-Warrington, 1760. Second month 26th, 1762.
+Warrington, Second month 26th, 1762.
 
 A warmth of sincere affection and friendship is
 lively and fresh upon my spirit towards thee,
@@ -1547,14 +1571,14 @@ I remember them with a tender affection,
 and run from one to another with a degree of solicitude,
 as if I viewed a race of youth connected to me in the ties of nearest natural alliance.
 How are they?
-are they thy comfort,
+Are they thy comfort,
 as far as religion and virtue in offspring can be so to anxious parents?
 Oh, how grateful to me, how comfortable to thee and their dear father,
 how honourable to themselves might they become,
 if suitably humbled to seek and abide under the fashioning Hand,
 which alone makes vessels of sanctification and honour!
 What becomes of dear Charley?
-doth the softness and delicacy of tender years remain with him,
+Doth the softness and delicacy of tender years remain with him,
 and give reason to hope advance in years and piety will be proportionate to each other?
 Salute them all in my name;
 for my heart and eyes overflow in strong petitions and
@@ -1591,7 +1615,7 @@ This also was a large and favoured meeting.
 Samuel Fothergill to Catherine Payton.
 
 [.signed-section-context-open]
-Warrington, 1760. Sixth month, 1762.
+Warrington, Sixth month, 1762.
 
 Few successive hours have elapsed for several weeks past,
 in which thou hast been out of my remembrance,
@@ -1606,7 +1630,7 @@ who views us in every probation, and compassionately regards us,
 when destitute of every other helper, and perhaps receiving the bitter cup,
 when we might hope for some alleviation of sorrow;
 but what shall we say of the Lord Almighty, but just and true are all his ways?
-and what of ourselves, but unto us belong blushing and confusion of face.
+And what of ourselves, but unto us belong blushing and confusion of face.
 I was by no means unmindful of thee in my return from London,
 nor was +++_______+++ out of my thoughts: two reasons hastened me home: one,
 my wife`'s indisposition, the other,
@@ -1621,7 +1645,7 @@ I only beg it may promote my sanctification.
 I was pleased to meet thy brother in London; I hope his mind is rightly baptized,
 at times, for his own and the Society`'s help; may he be blessed with sedate stability,
 and produce in patience,
-the peaceable fruits of righteousness Several persons
+the peaceable fruits of righteousness&hellip; Several persons
 have come to our meetings since the meeting at Bolton,
 and from some account several are fully convinced,
 and would sit down with Friends if there was any meeting thereabouts.
@@ -1742,11 +1766,11 @@ he could not endure, he was enabled in measure to conquer this shame,
 and submit to that power that could cleanse his heart, for which unmerited favour,
 all within him worshipped and praised Him that lives forever.
 And having happily experienced the advantage of joining with wisdom`'s call,
-he was earnest in inviting others to join with il.
+he was earnest in inviting others to join with it.
 For wisdom has extended and builded her house, and hewn her seven pillars,
 which he compared to the virtues to which the apostle exhorts and calls the believers,
-when he says.
-Add to your faith virtue, etc.
+when he says,
+"`Add to your faith virtue,`" etc.
 And if we come thus to obey the call of wisdom, we shall dwell in a quiet habitation,
 in a covert from the storm in times of trial, when afflictions roll upon us,
 for these we must expect on this side the grave.
@@ -1927,7 +1951,7 @@ he spoke closely, and said he had seen such disappointed in their designs;
 and a blast from heaven had often attended them;
 and that perhaps some there might live to see it,
 and he was ready to say would feel it--live to see themselves disappointed,
-surrounded with confusion, anxiety, and paleness efface, deserted of heaven and earth.
+surrounded with confusion, anxiety, and paleness of face, deserted of heaven and earth.
 He mentioned his knowledge of an instance of Almighty
 justice in one who had been visited when young,
 was an officer in the church, and likely to be made an instrument of use,
@@ -1979,7 +2003,7 @@ checkered with good and evil.
 13th.--In the select meeting he spoke of a state which
 seemed much to prevail amongst Friends in this nation,
 even as amongst the royal tribe of Judah;
-a complaint that the strength of the bearers of burdens was ready '`to fail,
+a complaint that the strength of the bearers of burdens was ready to fail,
 because there is so much rubbish;
 but he recommended such not to give way to ineffectual bemoaning,
 but rather to be willing to rise up and work, to repair the breaches,
@@ -2173,7 +2197,7 @@ and also on some other subjects.
 Samuel Fothergill to Catherine Payton.
 
 [.signed-section-context-open]
-Warrington, 1760. Second month 26th, 1763.
+Warrington, Second month 26th, 1763.
 
 Thou art always, dear Friend, regarded with pure and tender friendship by me,
 though I have not always the power or opportunity to tell thee so,
@@ -2307,7 +2331,7 @@ he was engaged in a similar service in the city of London, and some neighbouring
 Samuel Fothergill to John Gurney.
 
 [.signed-section-context-open]
-Warrington, 1760. Eleventh month 10th, 1763.
+Warrington, Eleventh month 10th, 1763.
 
 I am sensible my silence hath borne the mark of
 ingratitude to a friend to whom I am much obliged,
@@ -2368,7 +2392,7 @@ footnote:[George Harrison was a native of Kendal, resided for many years in Lond
 and died at Wandsworth, in the third month, 1827, aged eighty years.]
 
 [.signed-section-context-open]
-Warrington, 1760. First month 20th, 1764.
+Warrington, First month 20th, 1764.
 
 The agreeable impressions thy sobriety, and I hope religious conduct, made upon my mind,
 whilst thou wast at school at Penketh, remain with me,
@@ -2501,7 +2525,7 @@ footnote:[Henry Portsmouth died at Basingstoke, tenth month 17th, 1780,
 aged seventy-seven.]
 
 [.signed-section-context-open]
-Warrington, 1760. Eighth month 16th, 1764.
+Warrington, Eighth month 16th, 1764.
 
 Since our first acquaintance, which is now of many years`' standing,
 thou hast possessed a share in my affectionate friendship,
@@ -2623,7 +2647,7 @@ they will mingle at length with the conquerors, and inherit all things.
 I beseech thee, my friend, consider things deeply; if thou cease to be one of us,
 as a society raised for the purpose intimated above,
 why shouldst thou endeavour to draw others after thee from the Lord`'s cause?
-a work which on a dying bed will not be crowned with peace.
+A work which on a dying bed will not be crowned with peace.
 Blame not Friends for their faithfulness to their avowed principles,
 and steady adherence to the cause of God.
 If the way is become too strait for thee to walk in,
@@ -2635,7 +2659,7 @@ on hearing thy name read in the correspondent book,
 the last yearly meeting, as a correspondent for Hampshire; how inconsistent this is,
 must at once appear to any considerate person.
 What advice couldst thou give to a tender Friend in distress on the militia law?
-or how couldst thou represent it, if necessary, to the Meeting for Sufferings in London,
+Or how couldst thou represent it, if necessary, to the Meeting for Sufferings in London,
 when thyself hast ceased to maintain that branch of our testimony?
 Surely, thy prudence as a man will suggest the propriety of having thy name discontinued.
 The bulk of this letter hath greatly exceeded my intention;
@@ -2684,7 +2708,7 @@ Soon after this, the discipline was in good measure restored,
 and a few solid Friends were raised up to conduct the affairs of the Society.^
 footnote:[At the time of Samuel Fothergill`'s visit,
 the meetings for discipline in Scotland were, First,
-the yearly and quarterly meeting of Aberdeen, consisting`' of three monthly meetings, viz:
+the yearly and quarterly meeting of Aberdeen, consisting of three monthly meetings, viz:
 Aberdeen, Kinmuck, and Urie.
 With Kinmuck was joined the meeting of Old Meldrum, and with Urie that of Stonehaven.
 Second, the yearly and quarterly meeting of Edinburgh,
@@ -2865,7 +2889,7 @@ Samuel Fothergill.
 Samuel Fothergill to his Brother and Sister.
 
 [.signed-section-context-open]
-Warrington, 1760. First month, 1765.
+Warrington, First month, 1765.
 
 I am, through mercy, in good health, a cold excepted,
 which I got in our arduous labour of visiting families; it is not very troublesome,
@@ -2920,7 +2944,7 @@ he states in a letter to his brother Samuel, written in 1764.
 [.embedded-content-document.letter]
 --
 
-"`A desire has of late risen in my mind to retreat for a few months next summer,
+A desire has of late risen in my mind to retreat for a few months next summer,
 into Cheshire, and some part of the county not far from Middlewich appeared suitable;
 I wish by a few months`' recess to get some time to breathe,
 and to let the dependence that many have upon me here, gradually die away,
@@ -2933,7 +2957,7 @@ where there is room comfortably to accommodate my sister, myself,
 and four or five servants, with a bed or two for our friends, I shall be satisfied.
 In this part, there is the forest (of Delamere) on one side,
 which is but thinly inhabited, and there is a meeting,
-and I can see you all occasionally.`"
+and I can see you all occasionally.
 
 --
 
@@ -2959,7 +2983,7 @@ Middlewich to give gratuitous advice to the poor.
 Samuel Fothergill to Israel Pemberton.
 
 [.signed-section-context-open]
-Warrington, 1760. Twelfth month 10th, 1765.
+Warrington, Twelfth month 10th, 1765.
 
 My correspondence on your side the water is almost dropped,
 owing principally to my incapacity of sustaining it as I could wish sometimes,
@@ -3068,7 +3092,7 @@ Samuel Fothergill.
 Samuel Fothergill to his Brother John.
 
 [.signed-section-context-open]
-Warrington, 1760. Twelfth month 16th, 1765.
+Warrington, Twelfth month 16th, 1765.
 
 I lately rode as far as Congleton,
 to the funeral of a person who had some relation to the Society,
@@ -3183,7 +3207,7 @@ how shall I meet those friends to whose care I have been instrumental in committ
 And what will be the sentence from despised mercy?
 I am shocked at the mere supposition; but what must be the suffering of such a state?
 Dear Joseph, what shall I say?
-what can I say, that will tend to thy help,
+What can I say, that will tend to thy help,
 but earnestly press thee to seek Him who is mighty to save,
 and to whom Jonah cried out of the belly of hell?
 Cherish every impression of good; place thyself frequently before that tremendous bar,
@@ -3263,7 +3287,7 @@ he was confined for some time.
 Samuel Fothergill to his Sister.
 
 [.signed-section-context-open]
-Warrington, 1760. Tenth month 18th, 1766.
+Warrington, Tenth month 18th, 1766.
 
 I have been to Nottingham, and went by Manchester,
 where I found brother Isaac Crewdson very much indisposed,
@@ -3317,7 +3341,7 @@ Samuel Fothergill.
 Samuel Fothergill to Catherine Payton.
 
 [.signed-section-context-open]
-Warrington, 1760. Third month 25th, 1767.
+Warrington, Third month 25th, 1767.
 
 With thee, my dear friend and sister in the pure Truth, I am more sympathetically united;
 as my own, I tender thy good,
@@ -3360,7 +3384,7 @@ Samuel Fothergill.
 Samuel Fothergill to Israel Pemberton.
 
 [.signed-section-context-open]
-Warrington, 1760. Fourth month 1st, 1767.
+Warrington, Fourth month 1st, 1767.
 
 My affection remains undiminished.
 I love you all tenderly, and with equal solicitude desire your essential happiness,
@@ -3437,7 +3461,7 @@ John Fothergill.
 Samuel Fothergill to Samuel Emlen.
 
 [.signed-section-context-open]
-Warrington, 1760. Second month 1st, 1768.
+Warrington, Second month 1st, 1768.
 
 Thy acceptable favour of the 19th of last month came safe to hand in course,
 and I had sooner acknowledged it, had not an event, daily expected for two weeks,
@@ -3446,7 +3470,7 @@ Our worthy friend and kinsman, Gilbert Thompson,
 hath been in a declining state for some time,
 and of late seemed to decay so very fast as to
 call in question his surviving for one day.
-He finished his course about mid-night, last sixth-day, and is to be interred tomorrow.
+He finished his course about midnight, last sixth-day, and is to be interred tomorrow.
 I have often been with him to my humbling instruction;
 for some time his journeying was in the region of the shadow of death.
 I have sat by him, accompanied his spirit under the load of death,

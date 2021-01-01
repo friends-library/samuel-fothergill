@@ -50,10 +50,10 @@ leaning for support on the rail of the gallery, he pathetically repeated these l
 
 [verse]
 ____
-"`My life, if thou preserv`'st my life,
+My life, if thou preserv`'st my life,
 Thy sacrifice shall be;
 And death, if death must be my doom,
-Shall join my soul to thee.`"
+Shall join my soul to thee.
 ____
 
 He departed this life on the 30th of twelfth month, 1799, aged nearly seventy years,
@@ -315,7 +315,7 @@ When we heard of your arrival at Dublin it made many glad hearts.
 I have often thought our quarterly meeting looked naked and weak without you,
 yet Providence has graciously condescended to our help and joy of faith.
 
-I have lately beard that Friends have had another
+I have lately heard that Friends have had another
 opportunity with the chief of the Jersey Indians,
 since you came away, who seemed well satisfied with the conversation of Friends,
 and said they had now a different apprehension of Friends,
@@ -463,7 +463,6 @@ and be preserved, in times of withdrawing, chaste and dependent,
 that our fruit may be on us every month, in the variety of seasons in the Lord`'s year.
 My dear wife is bravely, and joins with me in the most affectionate tenders of true love.
 
-[.signed-section-closing]
 Yours, in the fellowship of the hope and sufferings of the gospel of Christ,
 
 [.signed-section-signature]
@@ -515,7 +514,7 @@ That ancient cord of love, which binds up in the heavenly bundle of love and lif
 is often around my spirit, in sympathy and fellowship with some of yours;
 though a debility of mind often is my lot,
 in which I am disqualified from much expression,
-and sometimes have no right to express any thing.
+and sometimes have no right to express anything.
 I have been much divested of the sense of heavenly treasure in my own possession,
 since my return, but am thankful for a resigned, quiet spirit,
 which I feel is not insensible stupidity; and all I beg for is,
@@ -580,7 +579,7 @@ He died at Kendal, twelfth month 30th, 1769, aged ninety-two, a minister sixty y
 Warrington, Eleventh month 9th, 1756.
 
 [.salutation]
-Dear and worthy friend.
+Dear and worthy friend,
 
 As I am persuaded you have greatly at heart the welfare of Zion,
 and in a particular manner are interested in me,
@@ -803,10 +802,10 @@ Thomas Gawthorp to Samuel Fothergill.
 [.signed-section-context-open]
 Blackwater, in Virginia, Twelfth month 8th, 1756.
 
-I should have been glad to have seen you before you left this continent,
+&hellip;I should have been glad to have seen you before you left this continent,
 but it seems to me it was for the best that we had no personal communion with each other,
 for some in Nantucket were so weak as to imagine I had seen the
-letter you wrote to Friends there The difference is not closed,
+letter you wrote to Friends there&hellip; The difference is not closed,
 and I fear it will be to the hurt of many.
 
 Your labor for the renewing of the discipline seems to gall many stubborn ones,
@@ -885,7 +884,7 @@ gives some further particulars of him, and of the situation of affairs in Philad
 [.embedded-content-document.letter]
 --
 
-"`William Dillworth brought my brother, Thomas Gawthorp, home in a chaise;
+William Dillworth brought my brother, Thomas Gawthorp, home in a chaise;
 he was very feeble, he can neither write, nor in any way use his right hand.
 He says he was twenty-seven days on his passage from Philadelphia to Falmouth;
 he was in the former place when Washington and his army were in it,
@@ -902,8 +901,8 @@ and for refusing to muster when required by the Provincials,
 he was taken and marched two hundred miles, to Philadelphia,
 with his hands tied behind him and a gun on his back; he was not kept long,
 but sent home again, but was not allowed to see his father,
-though then in Philadelphia.`"
-(Letter from George Crosfield Westmoreland, to his son George Crosfield, Warrington,
+though then in Philadelphia.
+(Letter from George Crosfield, Westmoreland, to his son George Crosfield, Warrington,
 1778.)
 
 --
@@ -944,9 +943,9 @@ who is so poor and blind as his servant?
 May that Hand which has led and sustained you hitherto in slippery paths,
 from your youth upwards, for such has your pilgrimage led through,
 be your staff during the residue of your passage;
-that by his help you may offer an evening sacrifice of praise, and say.
-Oh!
-Lord, you have been with me from my youth to this hour.
+that by his help you may offer an evening sacrifice of praise, and say,
+"`Oh!
+Lord, you have been with me from my youth to this hour.`"
 
 Our worthy friends, Abraham Farrington and Samuel Emlen, have been at my house a week;
 the former has gone to visit a neighboring county.
@@ -1006,7 +1005,7 @@ which indeed are loud and piercing, through the lack of bread.
 Circumstances the most painful, where not a few parents,
 after the labor of the day are compelled to hear, without any possibility of relief,
 the piteous cries of their children for bread;
-alas I they are not able to procure it for them.
+alas! They are not able to procure it for them.
 
 That this is the state of many among us, is a most painful, certain truth;
 though perhaps, neither thought of, nor attended to by many,
@@ -1015,7 +1014,7 @@ who in fulness of bread and ease, forget the anxiety of the poor.
 What attempts have we made to relieve them, and mitigate their sorrow and suffering?
 I wish I could give a detail of many:--are the inhabitants
 unable to administer relief to their poor neighbors?
-are their circumstances such as to render it difficult
+Are their circumstances such as to render it difficult
 for them to sustain the necessary duties of society?
 I believe otherwise.
 
@@ -1025,11 +1024,12 @@ Cannot we find money enough to squander upon them, to supply their luxury,
 and pay them for corrupting our youth?
 We can spare, as I am credibly informed, from eight to fifteen pounds per night,
 supporting, at the expense probably of one hundred pounds, these vagabonds,
-in defiance of every awful sanction of laws.
+in defiance of every awful sanction of laws,
 Divine and human; and yet hear unmoved the cries, and see the tears,
 of our starving poor, who mourn for the relief we thus lavish away.
 
 Is this a loan to the Lord we might hope himself would repay?
+
 Who will hesitate a moment, upon reflection,
 whether it be not more consistent with our duty and interest,
 to turn this stream of profusion into the families of the poor;
@@ -1429,13 +1429,16 @@ The exertion and fatigue he had undergone in America;
 the long journeys on horseback which he was in the constant habit of performing;
 the nature of his public services,
 and the many engagements which incessantly occupied his mind,
-ail combined to produce a serious effect upon his constitution,
+all combined to produce a serious effect upon his constitution,
 from which it never afterwards fully recovered.
 
 His strength was on this occasion greatly reduced, and his recovery was slow.
 It is thus mentioned in the journal of his intimate friend, Catherine Payton:--
 
-"`Fourth month 9th, 1757.--We went to Warrington,
+[.embedded-content-document]
+--
+
+Fourth month 9th, 1757.--We went to Warrington,
 where a renewed occasion of thankfulness to gracious Providence was administered,
 by the probability of the recovery of our dear friend Samuel Fothergill,
 from an indisposition wherein his life had been despaired of.
@@ -1444,7 +1447,9 @@ from the consideration of the great loss the church would sustain by his removal
 and myself as an individual member thereof; yet dared I not ask his longer continuance,
 in this state of trials and dangers,
 knowing that if Divine wisdom called him out of it now,
-it would certainly be in the best time.`"
+it would certainly be in the best time.
+
+--
 
 [.embedded-content-document.letter]
 --
@@ -2388,10 +2393,10 @@ footnote:[Thomas Greer died in 1803, a minister upwards of fifty years.]
 to Samuel Fothergill.
 
 [.signed-section-context-open]
-Dungannon, Ninth month 9th, 1737.
+Dungannon, Ninth month 9th, 1757.
 
 I have often thought of you of late, and I think,
-alway attended with strong desires that you might be sent to visit us in this nation,
+always attended with strong desires that you might be sent to visit us in this nation,
 which may truly be said to languish as to the life of religion,
 but am afraid to expect such a thing suddenly,
 when I consider the weight that lies on your shoulders in your own land,
@@ -2664,7 +2669,7 @@ yet shall he presume, while clothed in rags, to enter therein?
 Will he not defile the same, and be the greater object of scorn, instead of pity?
 Perhaps a time may come when a washing and pulling off
 the filthy rags of nature may be known,
-and a belter clothing experienced.
+and a better clothing experienced.
 
 Thus far I have written, and that not without a rebuke,
 but could not longer delay expressing my sincere love to you, dear friend.
@@ -3190,7 +3195,7 @@ I sat down to write to you with a degree of ease
 and serenity which promised some satisfaction;
 but this was soon interrupted by a dry frame of mind,
 that has indeed faded and dissipated every pleasing,
-comfortable sensation I find no other way to a degree of stability and happiness,
+comfortable sensation&hellip; I find no other way to a degree of stability and happiness,
 but to study to be quiet, and mind my own business;
 this I think includes acquiescence and resignation to every allotted dispensation;
 a steady adherence to this, through the assistance of Providence,
@@ -3207,8 +3212,8 @@ when we are ready to sink.
 Your remarks on worthy Abraham Farrington^
 footnote:[This worthy friend had finished his earthly course,
 a short time before this was written, at the house of Thomas Jackson, in London,
-who thus writes to Samuel Fothergill:--"`All care, both by advice and nursing-,
-was taken of our dear friend Abraham Farrington, as he lived, so he died,
+who thus writes to Samuel Fothergill:--"`All care, both by advice and nursing,
+was taken of our dear friend Abraham Farrington,&hellip; as he lived, so he died,
 in great innocency and quietude, and no doubt,
 is gone to rest with the blessed.`"--T. J.]
 are affecting and just; but to reflect on the brightness of the setting sun,
@@ -3539,7 +3544,7 @@ as surely as in the paths of light.
 I meddle little with the public transactions of Europe,
 but think the nations are as a boiling pot.
 Wars, commotions, and bloodshed fill the awful scene,
-and a spirit is let loose which breathes destruction I am sorry to
+and a spirit is let loose which breathes destruction&hellip; I am sorry to
 hear of the defection and cowardice of some in the Jerseys,
 in flinching from their testimony.
 Alas I what have we that we have not received?
@@ -4132,9 +4137,9 @@ I will acknowledge that it is a situation which
 does not appear so desirable as some others,
 nor so likely to procure riches, ease, or worldly honor.
 But alas!
-Alas! what have we to do with these things 1 Shall we desire to be great and rich,
+Alas! What have we to do with these things? Shall we desire to be great and rich,
 when our Saviour has so plainly declared it a situation so very dangerous;
-and that his predominant choice is of the poor of this world`'.`' Is it now a time,
+and that his predominant choice is of the poor of this world? Is it now a time,
 or was it ever a time for the believer,
 who eyes and relies upon the promise--is it a time for such to seek for money,
 or olive yards, or oxen,
@@ -4314,9 +4319,9 @@ I often am present in spirit with you, sometimes a companion of your solitary ho
 and as if I sometimes shared with you apart in those baptisms which
 are necessarily and wisely allotted for the instruction of all states.
 A time will come, my dear friend, when we shall with Divine ardor and holy certainty,
-close our anthem with this acknowledgment, In wisdom have you made all your works;
+close our anthem with this acknowledgment, "`In wisdom have you made all your works;
 until which event attend us,
-O may all the days of our pilgrimage be passed in vigilance and filial awe!
+O may all the days of our pilgrimage be passed in vigilance and filial awe!`"
 It has pleased Divine Providence to allot me the dispensation of a tedious indisposition,
 which has held me all winter, and is not wholly removed;
 the formation of an abscess in my lungs was very dangerous in the ninth month last,
@@ -4657,7 +4662,7 @@ which many rejoice in as their principal good.
 We are under the continual notice of a merciful Father, who sees and pities us;
 when our backslidings correct us, he mitigates the severity due,
 and turns even our weaknesses into the means of renewing strength,
-and renews great occasion to hope all things shall work together for wood.
+and renews great occasion to hope all things shall work together for good.
 I often consider the situation of your province in this sifting day,
 in which a separation is made between the true-hearted followers of Christ,
 though in the way of the cross, and those whose building is upon the sand,

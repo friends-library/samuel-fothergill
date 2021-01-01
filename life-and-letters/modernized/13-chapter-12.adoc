@@ -89,7 +89,7 @@ In 1772 he thus writes from Lea Hall:
 [.letter-heading]
 Dr. Fothergill to Dr. Lettsom.
 
-"`I have been obliged to write many letters, which I am at present very unfit for,
+I have been obliged to write many letters, which I am at present very unfit for,
 or for any thing else; but I will not spend all in unavailing complaints.
 I meet with many things to put me in mind how much I have lost,
 and I feel such a void in my enjoyments of this life,
@@ -98,7 +98,7 @@ as reduces my wishes to a great mediocrity indeed.`"
 counsel, and sympathy relieved every anxiety, gave taste to every enjoyment;
 but I will try to banish everything but a wish
 to follow him through the remains of this life,
-with submission to every difficulty, and gratitude for many blessings.`"
+with submission to every difficulty, and gratitude for many blessings.
 
 --
 
@@ -119,14 +119,14 @@ to direct and contemplate the extensive collection he had formed,
 was a source of great pleasure to the owner.
 Sir Joseph Banks in writing on this subject,
 says "`At an expense seldom undertaken by an individual,
-and with an ardor that was visible in the whole of his conduct.
+and with an ardor that was visible in the whole of his conduct,
 Dr. Fothergill procured, from all parts of the world,
 a great number of the rarest plants,
 and protected them in the amplest buildings which this or any other country has seen.
 He liberally proposed rewards to those who brought here plants which might be ornamental,
 and probably useful to this country or her colonies,
 and has liberally paid these rewards to all that served him.
-if the troubles of war had not prevented, we should have had the Cortex Winteranus, etc.,
+If the troubles of war had not prevented, we should have had the Cortex Winteranus, etc.,
 etc., introduced by his means into this country, and the Bread-fruit, Mangosteen, etc.,
 into the West India Islands.
 For each of these, and many others, he had fixed a proper premium.
@@ -227,7 +227,7 @@ fervent desires were raised that the life of religion might be renewed in the ch
 to their help in the maintenance of pure, unmixed piety.
 And it pleased Divine Providence to open the way
 to a fresh labor of love among his people,
-and to make many willing to engage in this service; and oh I may it be blessed,
+and to make many willing to engage in this service; and oh! May it be blessed,
 so as to make it a memorable season of Divine refreshment,
 from the great Master of our assemblies.
 A desire to contribute my mite to this great and useful labor,
@@ -264,7 +264,7 @@ and obtain the blessing, for yourselves, and for the whole heritage of God.
 And you, my dear friends, who are the objects of the churches`' care,
 and among whom I rank myself, surrounded with many weaknesses, much imperfection,
 far short of the excellency that adorned our predecessors,
-yet struggling in hope after a belter life, freedom from entanglements, more love to God,
+yet struggling in hope after a better life, freedom from entanglements, more love to God,
 and his truth; yield to the word of exhortation;
 receive this visit as a fresh renewal of the love of God,
 and of help administered in the needful time.
@@ -324,7 +324,7 @@ spots and stains of this life.
 
 --
 
-Among the many distinguished men who, from similarity of pursuits.
+Among the many distinguished men who, from similarity of pursuits,
 Dr. Fothergill ranked among his intimate friends, was John Howard.
 They were both engaged, though in different spheres,
 in lessening the miseries of human life;
@@ -387,7 +387,10 @@ the Society owes its valuable institution at Ackworth.
 The circumstances which led to the establishment
 of that school are thus related by Dr. Hird:
 
-"`On his return from Cheshire, in the year 1777,
+[.embedded-content-document]
+--
+
+On his return from Cheshire, in the year 1777,
 he did me the favor of being my guest for a few days.
 In one of the many interviews he then had with his friends,
 the conversation turned on an institution at Gildersome,
@@ -403,6 +406,8 @@ The building, with an estate of eighty acres of land, was purchased, improved,
 and furnished by subscription.
 The Doctor set a generous example, by his own contribution,
 and an endowment by his will in perpetuity.
+
+--
 
 In thus coming forward to secure by immediate purchase,
 what appeared so desirable for the object in view,
@@ -447,7 +452,7 @@ expressing a pious and Christian resignation, and adding,
 it was perfecting the plan of Ackworth School; and likewise,
 the complete arrangement of the rules of our religious Society.`'^
 footnote:[This work, although not completed until 1782,
-had occupied the attention of the Meeting for Sufferings, of which Dr. Fothergill.
+had occupied the attention of the Meeting for Sufferings, of which Dr. Fothergill
 was an active member for a considerable time previously.]
 
 In a few weeks the complaint abated, and he was again able to see his friends:
@@ -568,10 +573,10 @@ after a large and solemn meeting.
 
 Much more might have been said respecting Dr. Fothergill,
 but accounts of his life have been already frequently printed.
-Soon after his decease, his relatives.
+Soon after his decease, his relatives,
 Dr. W. Hird, and Dr. G. Thompson, each wrote sketches of his character,
 or tributes to his memory; his friend.
-Dr. Lettsom, also collected his.
+Dr. Lettsom, also collected his
 works, and published them, with a full account of his life;
 this passed through at least four editions,
 and is the fullest and best account of him that has appeared.
